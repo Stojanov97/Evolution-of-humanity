@@ -321,6 +321,60 @@
         "name": "medievalTile_03.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "C:/Users/riste/Downloads/kenney_medieval-rts/Tilesheet/RTS_medieval@2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C:\\Users\\riste\\Downloads\\kenney_medieval-rts\\Tilesheet\\RTS_medieval@2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "medievalEnvironment_03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "medievalEnvironment_03.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "medievalEnvironment_04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "medievalEnvironment_04.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "medievalEnvironment_05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "medievalEnvironment_05.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "medievalEnvironment_06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "medievalEnvironment_06.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "medievalEnvironment_07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "medievalEnvironment_07.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1756,7 +1810,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.11805730185029274,
+        "zoomFactor": 0.1644839130493757,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -2342,13 +2396,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 320,
+          "height": 178,
           "layer": "",
           "name": "stick",
           "persistentUuid": "7d58e819-48f6-4a45-992f-7ce7e70ebde5",
-          "width": 375,
-          "x": 2574,
-          "y": 421,
+          "width": 228,
+          "x": 2056,
+          "y": 759,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -2358,13 +2412,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 320,
+          "height": 178,
           "layer": "",
           "name": "stick",
           "persistentUuid": "e39b50cd-752a-44f2-babb-402ad138e0af",
-          "width": 375,
-          "x": 608,
-          "y": 854,
+          "width": 228,
+          "x": 863,
+          "y": 1000,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -2374,13 +2428,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 320,
+          "height": 178,
           "layer": "",
           "name": "stick",
           "persistentUuid": "1209480a-0efc-459b-8baf-0b5d83072ae7",
-          "width": 375,
-          "x": 770,
-          "y": 1110,
+          "width": 228,
+          "x": 961,
+          "y": 1142,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -2390,13 +2444,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 320,
+          "height": 226,
           "layer": "",
           "name": "stick",
           "persistentUuid": "c206fbbe-b068-4e2a-9e7d-e1fe2f63b729",
-          "width": 375,
-          "x": 770,
-          "y": 1110,
+          "width": 239,
+          "x": 1077,
+          "y": 1078,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -2406,13 +2460,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 320,
+          "height": 178,
           "layer": "",
           "name": "stick",
           "persistentUuid": "a7f9f866-d4b4-4f6c-8ba6-c2de036981a8",
-          "width": 375,
-          "x": 148,
-          "y": 812,
+          "width": 228,
+          "x": 584,
+          "y": 976,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -2422,13 +2476,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 320,
+          "height": 178,
           "layer": "",
           "name": "stick",
           "persistentUuid": "7ea115b2-28c9-46ed-976f-c4f06a8c73f8",
-          "width": 375,
-          "x": 327,
-          "y": 965,
+          "width": 228,
+          "x": 693,
+          "y": 1062,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -2438,13 +2492,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 320,
+          "height": 178,
           "layer": "",
           "name": "stick",
           "persistentUuid": "2aecca9e-aafd-49f0-b7bf-4c1f8f09067f",
-          "width": 375,
-          "x": 323,
-          "y": 539,
+          "width": 228,
+          "x": 690,
+          "y": 824,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -2454,13 +2508,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 320,
+          "height": 178,
           "layer": "",
           "name": "stick",
           "persistentUuid": "071eec12-40b5-4156-935b-7c9e9c71bc7e",
-          "width": 375,
-          "x": 609,
-          "y": 1152,
+          "width": 228,
+          "x": 864,
+          "y": 1166,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -2470,13 +2524,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 367,
+          "height": 260,
           "layer": "",
           "name": "stick",
           "persistentUuid": "f2fa0070-1f96-4e6c-99f7-385a7119bda9",
-          "width": 371,
-          "x": 464,
-          "y": 761,
+          "width": 236,
+          "x": 883,
+          "y": 831,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -2502,13 +2556,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 64,
+          "height": 126,
           "layer": "",
           "name": "stone",
           "persistentUuid": "59a96584-c4ef-4fb5-915a-d2092f2abfac",
-          "width": 101,
-          "x": -965,
-          "y": 528,
+          "width": 178,
+          "x": -876,
+          "y": 383,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -2518,13 +2572,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 64,
+          "height": 126,
           "layer": "",
           "name": "stone",
           "persistentUuid": "f54a5c46-7797-4950-8b3b-b7694382daee",
-          "width": 101,
-          "x": -1082,
-          "y": 572,
+          "width": 178,
+          "x": -974,
+          "y": 451,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -2534,13 +2588,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 64,
+          "height": 126,
           "layer": "",
           "name": "stone",
           "persistentUuid": "5f8e6811-71b6-405f-a320-c06de152a88a",
-          "width": 101,
-          "x": -1050,
-          "y": 484,
+          "width": 178,
+          "x": -974,
+          "y": 316,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -2550,13 +2604,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 64,
+          "height": 126,
           "layer": "",
           "name": "stone",
           "persistentUuid": "9b610928-fbf7-4610-b2a5-ac2edcaa63ee",
-          "width": 101,
-          "x": -923,
-          "y": 439,
+          "width": 178,
+          "x": -795,
+          "y": 272,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -2566,13 +2620,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 64,
+          "height": 126,
           "layer": "",
           "name": "stone",
           "persistentUuid": "5bda264a-c3d5-4a80-a65e-5fc9681da3b5",
-          "width": 101,
-          "x": -843,
-          "y": 471,
+          "width": 178,
+          "x": -662,
+          "y": 271,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -2582,13 +2636,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 64,
+          "height": 126,
           "layer": "",
           "name": "stone",
           "persistentUuid": "7396e8c9-cac3-4602-85d7-4e75a040ea91",
-          "width": 101,
-          "x": -959,
-          "y": 614,
+          "width": 178,
+          "x": -810,
+          "y": 496,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -2598,13 +2652,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 64,
+          "height": 126,
           "layer": "",
           "name": "stone",
           "persistentUuid": "5bd76607-6bd4-4361-9685-0d1af4f5efe1",
-          "width": 101,
-          "x": -805,
-          "y": 531,
+          "width": 178,
+          "x": -729,
+          "y": 355,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -2614,13 +2668,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 64,
+          "height": 137,
           "layer": "",
           "name": "stone",
           "persistentUuid": "2e26b10d-d8f1-4bfd-b364-fcad8d9dbdff",
-          "width": 101,
-          "x": -841,
-          "y": 593,
+          "width": 159,
+          "x": -729,
+          "y": 418,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -2630,13 +2684,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 64,
+          "height": 126,
           "layer": "",
           "name": "stone",
           "persistentUuid": "d54eb1be-e7ba-4268-9d2a-00cb5574c945",
-          "width": 101,
-          "x": -1007,
-          "y": 372,
+          "width": 178,
+          "x": -890,
+          "y": 249,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -3548,7 +3602,7 @@
           "persistentUuid": "18f8b9e8-a2f9-45c0-9823-d180a57db663",
           "width": 5961,
           "x": -2383,
-          "y": -1535,
+          "y": -1539,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -3619,6 +3673,8 @@
               "IsCalledManually": false
             },
             {
+              "name": "TopDownMovement",
+              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "acceleration": 400,
               "allowDiagonals": true,
               "angleOffset": 0,
@@ -3628,9 +3684,7 @@
               "ignoreDefaultControls": false,
               "maxSpeed": 200,
               "movementAngleOffset": 0,
-              "name": "TopDownMovement",
               "rotateObject": true,
-              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "viewpoint": "TopDown"
             }
           ],
@@ -3845,17 +3899,16 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "NewSprite",
+              "name": "",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite2",
+                      "image": "medievalEnvironment_03.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3871,20 +3924,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 15,
-                            "y": 2
+                            "x": 38,
+                            "y": 16
                           },
                           {
-                            "x": 57,
-                            "y": 2
+                            "x": 90,
+                            "y": 16
                           },
                           {
-                            "x": 57,
-                            "y": 52
+                            "x": 90,
+                            "y": 106
                           },
                           {
-                            "x": 15,
-                            "y": 52
+                            "x": 38,
+                            "y": 106
                           }
                         ]
                       ]
@@ -3980,17 +4033,16 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "NewSprite2",
+              "name": "",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite3",
+                      "image": "medievalEnvironment_05.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4006,20 +4058,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 25
+                            "x": 28,
+                            "y": 50
                           },
                           {
-                            "x": 21,
-                            "y": 25
+                            "x": 100,
+                            "y": 50
                           },
                           {
-                            "x": 21,
-                            "y": 36
+                            "x": 100,
+                            "y": 80
                           },
                           {
-                            "x": 6,
-                            "y": 36
+                            "x": 28,
+                            "y": 80
                           }
                         ]
                       ]
@@ -4112,7 +4164,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "7fe811304cb672035b65bbf17b480463d99e7c1f29f7f8ea7c92301a5a44a1bf_Stone.png",
+                      "image": "medievalEnvironment_07.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4128,20 +4180,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 46,
+                            "y": 48
                           },
                           {
-                            "x": 16,
-                            "y": 0
+                            "x": 82,
+                            "y": 48
                           },
                           {
-                            "x": 16,
-                            "y": 16
+                            "x": 82,
+                            "y": 80
                           },
                           {
-                            "x": 0,
-                            "y": 16
+                            "x": 46,
+                            "y": 80
                           }
                         ]
                       ]
@@ -4289,10 +4341,6 @@
         {
           "name": "Opacity",
           "type": "OpacityCapability::OpacityBehavior"
-        },
-        {
-          "name": "Platform",
-          "type": "PlatformBehavior::PlatformBehavior"
         },
         {
           "name": "Resizable",
