@@ -375,6 +375,26 @@
         "name": "medievalEnvironment_07.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "medievalTile_57.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "medievalTile_57.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "assets/Mountain Group 2.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Mountain Group 2.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Fantasy RTS/rock/ffa9f5ae083f049b975cf6ecb19aff8ead2b971dbc558b74c7ada75901d3492d_Mountain Group 2.glb",
+          "name": "Mountain Group 2.glb"
+        }
       }
     ],
     "resourceFolders": []
@@ -3601,8 +3621,8 @@
           "name": "NewTiledSprite2",
           "persistentUuid": "18f8b9e8-a2f9-45c0-9823-d180a57db663",
           "width": 5961,
-          "x": -2383,
-          "y": -1539,
+          "x": -2208,
+          "y": -1291,
           "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
@@ -4357,6 +4377,124 @@
         {
           "name": "TopDownMovement",
           "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "hunterGather1",
+      "name": "hunterGather1",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.34118560234734524,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 3260,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "229961e6-4100-4fe1-a85a-b1bc7800a8f3",
+          "width": 5953,
+          "x": -1619,
+          "y": -1053,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "tags": "",
+          "texture": "medievalTile_57.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        }
+      ],
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 90,
+                "intensity": 0.5,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
         }
       ]
     }
