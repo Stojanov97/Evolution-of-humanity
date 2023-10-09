@@ -547,6 +547,440 @@
         "name": "medievalTile_58.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "cave-entrance.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cave-entrance.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "smallTent.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "smallTent.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/9f135cb7dc65180279d6b6f58f30e97cea1a2d97d18cb86c0b7090cabb4f437a_Blacksmith_Idle Down_1.png",
+          "name": "Blacksmith_Idle Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/9f135cb7dc65180279d6b6f58f30e97cea1a2d97d18cb86c0b7090cabb4f437a_Blacksmith_Idle Down_2.png",
+          "name": "Blacksmith_Idle Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/46b0ff54c880e0c163c93ec9c327056c70810a054dec5b2decda3f7da248d9fb_Blacksmith_Idle Down_3.png",
+          "name": "Blacksmith_Idle Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Down_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Down_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/46b0ff54c880e0c163c93ec9c327056c70810a054dec5b2decda3f7da248d9fb_Blacksmith_Idle Down_4.png",
+          "name": "Blacksmith_Idle Down_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/42a9cf89027eb6be9b4e180c939f9170168b4a1bfa4df13cdbc3b4b462f5a732_Blacksmith_Idle Left_1.png",
+          "name": "Blacksmith_Idle Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/42a9cf89027eb6be9b4e180c939f9170168b4a1bfa4df13cdbc3b4b462f5a732_Blacksmith_Idle Left_2.png",
+          "name": "Blacksmith_Idle Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/a2fc10d17ff4ea45a22b44439cabf3ef6021cb942a6c7900758e8a1dd6a035d5_Blacksmith_Idle Left_3.png",
+          "name": "Blacksmith_Idle Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Left_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Left_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/a2fc10d17ff4ea45a22b44439cabf3ef6021cb942a6c7900758e8a1dd6a035d5_Blacksmith_Idle Left_4.png",
+          "name": "Blacksmith_Idle Left_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/8b15621db49b131e6a06683ee56b41bcd43f2731676dba564a0adbd38a6035fa_Blacksmith_Idle Right_1.png",
+          "name": "Blacksmith_Idle Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/8b15621db49b131e6a06683ee56b41bcd43f2731676dba564a0adbd38a6035fa_Blacksmith_Idle Right_2.png",
+          "name": "Blacksmith_Idle Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/6614379ee23cc71bd7a40e56b60c347cc3e991757f7544b7659121b0289b26ca_Blacksmith_Idle Right_3.png",
+          "name": "Blacksmith_Idle Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Right_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Right_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/6614379ee23cc71bd7a40e56b60c347cc3e991757f7544b7659121b0289b26ca_Blacksmith_Idle Right_4.png",
+          "name": "Blacksmith_Idle Right_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/8fa6b7610b7df1f0e32eb02fcc5ceb3ca65f956f2a2f19488af081ae15244114_Blacksmith_Idle Up_1.png",
+          "name": "Blacksmith_Idle Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/8fa6b7610b7df1f0e32eb02fcc5ceb3ca65f956f2a2f19488af081ae15244114_Blacksmith_Idle Up_2.png",
+          "name": "Blacksmith_Idle Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/add381291a3bf0133163876699c718b1b80f83ffec81caef7180c5f8783f049b_Blacksmith_Idle Up_3.png",
+          "name": "Blacksmith_Idle Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Idle Up_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Idle Up_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/add381291a3bf0133163876699c718b1b80f83ffec81caef7180c5f8783f049b_Blacksmith_Idle Up_4.png",
+          "name": "Blacksmith_Idle Up_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/fe456b09943c6a78950357dd3539ce0f0f5d91c6331f9023c0b04368d30ab6f5_Blacksmith_Walk Down_1.png",
+          "name": "Blacksmith_Walk Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/0d6bd34706fa96374d7e7768aba47eb7af564e90dabd478a7b6a48583f575e9e_Blacksmith_Walk Down_2.png",
+          "name": "Blacksmith_Walk Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ae383e819075fa908aa9d961967558da77739a5b63de3fd20494f1f1db2beb7d_Blacksmith_Walk Down_3.png",
+          "name": "Blacksmith_Walk Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Down_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Down_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/0d6bd34706fa96374d7e7768aba47eb7af564e90dabd478a7b6a48583f575e9e_Blacksmith_Walk Down_4.png",
+          "name": "Blacksmith_Walk Down_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/fce197b68a999c341f5eb8aac02e9e382dc181ad590563c48340ecbef12a1dd5_Blacksmith_Walk Left_1.png",
+          "name": "Blacksmith_Walk Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/b3f5a31c42cbd77b092a4eeae457cf8273c3a8d56f4bdaa3724b0fff62e9d05a_Blacksmith_Walk Left_2.png",
+          "name": "Blacksmith_Walk Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/4cb00e6a6dc9894a56d6a8c8e5d36e23e48b16fa582fd9a2ed0fd3f52c04a477_Blacksmith_Walk Left_3.png",
+          "name": "Blacksmith_Walk Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Left_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Left_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/b3f5a31c42cbd77b092a4eeae457cf8273c3a8d56f4bdaa3724b0fff62e9d05a_Blacksmith_Walk Left_4.png",
+          "name": "Blacksmith_Walk Left_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/5f17f97fbcb86f21fa533dd59db51f5a89092b762638e76475a72c788f600676_Blacksmith_Walk Right_1.png",
+          "name": "Blacksmith_Walk Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/8ef09ef6e1bf4b7d64f3665a69fa73868a5d37be16923f2aa4b333e74047d65a_Blacksmith_Walk Right_2.png",
+          "name": "Blacksmith_Walk Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/dbe8947a0fdb42504c420448a7c6f1a0d6733706732dc1bd33e4b00349b12685_Blacksmith_Walk Right_3.png",
+          "name": "Blacksmith_Walk Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Right_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Right_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/8ef09ef6e1bf4b7d64f3665a69fa73868a5d37be16923f2aa4b333e74047d65a_Blacksmith_Walk Right_4.png",
+          "name": "Blacksmith_Walk Right_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ab9eff92501d87b706690b6ca9e13960a94ef9b4ca6c8d48665e1740ec773212_Blacksmith_Walk Up_1.png",
+          "name": "Blacksmith_Walk Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ddb8ba88cf6eafa1965cbbc18870dca0b00d6a83c53020002ecee2f72f615f26_Blacksmith_Walk Up_2.png",
+          "name": "Blacksmith_Walk Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/a99d54327449ceb6087e2ab73ec8b7ff74ec0d1f2c73899f28c12fc22ebed427_Blacksmith_Walk Up_3.png",
+          "name": "Blacksmith_Walk Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blacksmith_Walk Up_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blacksmith_Walk Up_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ddb8ba88cf6eafa1965cbbc18870dca0b00d6a83c53020002ecee2f72f615f26_Blacksmith_Walk Up_4.png",
+          "name": "Blacksmith_Walk Up_4.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -1963,15 +2397,15 @@
       ]
     },
     {
-      "b": 209,
+      "b": 0,
       "disableInputWhenNotFocused": true,
       "mangledName": "hunterGather",
       "name": "hunterGather",
-      "r": 209,
+      "r": 0,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 209,
+      "v": 0,
       "uiSettings": {
         "grid": false,
         "gridType": "rectangular",
@@ -1982,7 +2416,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.15392788923483364,
+        "zoomFactor": 0.6622955665506438,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -2003,6 +2437,54 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 290,
+          "layer": "",
+          "name": "NewSprite",
+          "persistentUuid": "5904216a-24a1-4c32-83d7-38d3b3dac163",
+          "width": 327,
+          "x": 781,
+          "y": -1074,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 147,
+          "layer": "",
+          "name": "NewSprite3",
+          "persistentUuid": "480d5ee9-ece3-4e86-a8ab-323d1aa480af",
+          "width": 147,
+          "x": 693,
+          "y": -40,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 3,
+          "height": 74,
+          "layer": "",
+          "name": "Blacksmith",
+          "persistentUuid": "f1d8bfd5-b5c6-462a-898c-2e1e22026e0e",
+          "width": 49,
+          "x": 897,
+          "y": -605,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -2011,15 +2493,1504 @@
           "height": 32,
           "name": "ground",
           "tags": "",
-          "texture": "medievalTile_58.png",
+          "texture": "medievalTile_03.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "cave-entrance",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "peshtera.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 1
+                          },
+                          {
+                            "x": 206,
+                            "y": 1
+                          },
+                          {
+                            "x": 206,
+                            "y": 183
+                          },
+                          {
+                            "x": 0,
+                            "y": 183
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite3",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "smallTent.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 3
+                          },
+                          {
+                            "x": 144,
+                            "y": 3
+                          },
+                          {
+                            "x": 144,
+                            "y": 157
+                          },
+                          {
+                            "x": 16,
+                            "y": 157
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "710df4a0355bb8744f9ba8b61f6987bf410e8da6baf0b39feaca16ae6ed7b617",
+          "name": "Blacksmith",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "SmoothCamera",
+              "type": "SmoothCamera::SmoothCamera",
+              "LeftwardSpeed": 0.9,
+              "RightwardSpeed": 0.9,
+              "UpwardSpeed": 0.9,
+              "DownwardSpeed": 0.9,
+              "FollowOnX": true,
+              "FollowOnY": true,
+              "FollowFreeAreaLeft": 0,
+              "FollowFreeAreaRight": 0,
+              "FollowFreeAreaTop": 0,
+              "FollowFreeAreaBottom": 0,
+              "CameraOffsetX": 0,
+              "CameraOffsetY": 0,
+              "CameraDelay": 0,
+              "ForecastTime": 0,
+              "ForecastHistoryDuration": 0,
+              "LogLeftwardSpeed": 0,
+              "LogRightwardSpeed": 0,
+              "LogDownwardSpeed": 0,
+              "LogUpwardSpeed": 0,
+              "DelayedCenterX": 0,
+              "DelayedCenterY": 0,
+              "ForecastHistoryMeanX": 0,
+              "ForecastHistoryMeanY": 0,
+              "ForecastHistoryVarianceX": 0,
+              "ForecastHistoryCovariance": 0,
+              "ForecastHistoryLinearA": 0,
+              "ForecastHistoryLinearB": 0,
+              "ForecastedX": 0,
+              "ForecastedY": 0,
+              "ProjectedNewestX": 0,
+              "ProjectedNewestY": 0,
+              "ProjectedOldestX": 0,
+              "ProjectedOldestY": 0,
+              "ForecastHistoryVarianceY": 0,
+              "Index": 0,
+              "CameraDelayCatchUpSpeed": 0,
+              "CameraExtraDelay": 0,
+              "WaitingSpeedXMax": 0,
+              "WaitingSpeedYMax": 0,
+              "WaitingEnd": 0,
+              "CameraDelayCatchUpDuration": 0,
+              "LeftwardSpeedMax": 9000,
+              "RightwardSpeedMax": 9000,
+              "UpwardSpeedMax": 9000,
+              "DownwardSpeedMax": 9000,
+              "OldX": 9000,
+              "OldY": 9000,
+              "IsCalledManually": false
+            },
+            {
+              "acceleration": 400,
+              "allowDiagonals": false,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "customIsometryAngle": 30,
+              "deceleration": 1200,
+              "ignoreDefaultControls": false,
+              "maxSpeed": 200,
+              "movementAngleOffset": 0,
+              "name": "TopDownMovement",
+              "rotateObject": false,
+              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+              "viewpoint": "TopDown"
+            }
+          ],
+          "animations": [
+            {
+              "name": "Idle Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Idle Down_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Idle Down_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Idle Down_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Idle Down_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Idle Left_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Idle Left_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Idle Left_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Idle Left_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Idle Right_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Idle Right_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Idle Right_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Idle Right_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Idle Up_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Idle Up_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Idle Up_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Idle Up_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Walk Down_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Walk Down_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Walk Down_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Walk Down_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Walk Left_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Walk Left_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Walk Left_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Walk Left_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Walk Right_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Walk Right_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Walk Right_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Walk Right_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walk Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Walk Up_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Walk Up_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Walk Up_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Blacksmith_Walk Up_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
-      "events": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "w"
+              ]
+            },
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Up"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Blacksmith",
+                "Animation",
+                "=",
+                "\"Idle Right\""
+              ]
+            }
+          ]
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 200,
@@ -2089,6 +4060,14 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "SmoothCamera",
+          "type": "SmoothCamera::SmoothCamera"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
       ]
     }
@@ -2102,6 +4081,108 @@
     }
   ],
   "eventsFunctionsExtensions": [
+    {
+      "author": "@4ian",
+      "category": "Movement",
+      "extensionNamespace": "",
+      "fullName": "Linear Movement",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLXJheS1zdGFydC1hcnJvdyIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0yMywxMkwxOSwxNlYxM0g2LjgzQzYuNDIsMTQuMTcgNS4zMSwxNSA0LDE1QTMsMyAwIDAsMSAxLDEyQTMsMyAwIDAsMSA0LDlDNS4zMSw5IDYuNDIsOS44MyA2LjgzLDExSDE5VjhMMjMsMTJaIiAvPjwvc3ZnPg==",
+      "name": "LinearMovement",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/ray-start-arrow.svg",
+      "shortDescription": "Move the object linearly, according to the speed configured on X and Y axis. Useful for simple enemies, bullets or objects following a straight line on the screen.",
+      "version": "0.0.2",
+      "description": "Move the object linearly, according to the speed configured on X and Y axis. Useful for simple enemies, bullets or objects following a straight line on the screen.",
+      "origin": {
+        "identifier": "LinearMovement",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "line",
+        "movement",
+        "linear"
+      ],
+      "authorIds": [
+        "wWP8BSlAW0UP4NeaHa2LcmmDzmH2"
+      ],
+      "dependencies": [],
+      "eventsFunctions": [],
+      "eventsBasedBehaviors": [
+        {
+          "description": "Move the object linearly, according to the speed configured on X and Y axis. Useful for simple enemies, bullets or objects following a straight line on the screen.",
+          "fullName": "Linear movement",
+          "name": "LinearMovement",
+          "objectType": "",
+          "eventsFunctions": [
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPreEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AddForceXY"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Object.Behavior::PropertySpeedX()",
+                        "Object.Behavior::PropertySpeedY()",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "LinearMovement::LinearMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "0",
+              "type": "Number",
+              "unit": "PixelSpeed",
+              "label": "Speed on X axis",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "SpeedX"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "unit": "PixelSpeed",
+              "label": "Speed on Y axis",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "SpeedY"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        }
+      ],
+      "eventsBasedObjects": []
+    },
     {
       "author": "",
       "category": "Camera",
