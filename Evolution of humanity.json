@@ -1299,6 +1299,279 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/medievalEnvironment_010.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/medievalEnvironment_010.png\"}",
+        "name": "medievalEnvironment_010",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/medievalEnvironment_011.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "medievalEnvironment_011",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/medievalEnvironment_012.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "medievalEnvironment_012",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "medievalTile_32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "medievalTile_32.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "medievalTile_22.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"medievalTile_22.png\",\"extension\":\".png\"}",
+        "name": "medievalTile_22.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bard 7_Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bard 7_Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Characters/Retro/Bards/8ea6c55fa01c240739580eb3bf04d7f32efd76cf0c9c974d9103d99c633b141e_Bard 7_Down_1.png",
+          "name": "Bard 7_Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bard 7_Down_2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Bard 7_Down_2.png\",\"extension\":\".png\"}",
+        "name": "Bard 7_Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Characters/Retro/Bards/21e87f557e00c69f6912ed8d90d8496017ed75ad034424cf9e07bc895968b748_Bard 7_Down_2.png",
+          "name": "Bard 7_Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bard 7_Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bard 7_Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Characters/Retro/Bards/3aec36525a640236083778fb401a3b6f8b6c95a1188aad1c75b1d491a4ebdc16_Bard 7_Down_3.png",
+          "name": "Bard 7_Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bard 7_Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bard 7_Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Characters/Retro/Bards/2b1b64dbbe1d6f5b292d4a183ac288f1a08c47302985c3593e1ca7ed6da2831a_Bard 7_Left_1.png",
+          "name": "Bard 7_Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bard 7_Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bard 7_Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Characters/Retro/Bards/368abc95058d2dcca64f64ae77f45c6a8ae4bc0e0da19f91de1fb10365440473_Bard 7_Left_2.png",
+          "name": "Bard 7_Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bard 7_Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bard 7_Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Characters/Retro/Bards/c0401812d60cc73acdd48814858089fa3d135039cc889f6cf7b12e2dd7836bfa_Bard 7_Left_3.png",
+          "name": "Bard 7_Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bard 7_Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bard 7_Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Characters/Retro/Bards/bf23e48d2c869859cc7a8b602010ce3dbb87f6165334c4afd11c3f39c72a25c2_Bard 7_Right_1.png",
+          "name": "Bard 7_Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bard 7_Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bard 7_Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Characters/Retro/Bards/24c9e459f309b9022439fd5e8d7e34abca76595de985c3069759cc62b5c2104b_Bard 7_Right_2.png",
+          "name": "Bard 7_Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bard 7_Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bard 7_Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Characters/Retro/Bards/3b493d688093847afe908eb77c200e015818a2b11ea88d03850bf13d626368c4_Bard 7_Right_3.png",
+          "name": "Bard 7_Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bard 7_Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bard 7_Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Characters/Retro/Bards/0ad7b44825d06a5d407fee2102fde8f5c6dc244010f4133c46968f2da247b575_Bard 7_Up_1.png",
+          "name": "Bard 7_Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bard 7_Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bard 7_Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Characters/Retro/Bards/f908ce37f57d73d0a26117d781998f2c03b017cd8fe89ac8d75efe84d76aebd3_Bard 7_Up_2.png",
+          "name": "Bard 7_Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bard 7_Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bard 7_Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Characters/Retro/Bards/262d1f30a0a1764fbd22a191c705df25625f30aff3c9e60522d9215aab9861f6_Bard 7_Up_3.png",
+          "name": "Bard 7_Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "bigTent.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bigTent.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "medievalTile_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "medievalTile_10.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/medievalEnvironment_09.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "medievalEnvironment_09",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "medievalTile_23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "medievalTile_23.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "medievalTile_09.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"medievalTile_09.png\",\"extension\":\".png\"}",
+        "name": "medievalTile_09.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "medievalTile_010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "medievalTile_010.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "medievalTile_24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "medievalTile_24.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "medievalTile_28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "medievalTile_28.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2734,23 +3007,47 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3768772036750928,
+        "zoomFactor": 0.22169247275005874,
         "windowMask": false
       },
-      "objectsGroups": [],
+      "objectsGroups": [
+        {
+          "name": "Path",
+          "objects": [
+            {
+              "name": "curve"
+            },
+            {
+              "name": "intersection"
+            },
+            {
+              "name": "straightPath"
+            },
+            {
+              "name": "straightPath1"
+            },
+            {
+              "name": "deadEnd"
+            },
+            {
+              "name": "NewSprite2"
+            }
+          ]
+        }
+      ],
       "variables": [],
       "instances": [
         {
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 3240,
+          "height": 2694,
           "layer": "",
           "name": "ground",
           "persistentUuid": "229961e6-4100-4fe1-a85a-b1bc7800a8f3",
           "width": 3840,
           "x": -1020,
-          "y": -890,
+          "y": -885,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -2765,8 +3062,8 @@
           "name": "NewSprite",
           "persistentUuid": "5e1f5880-debf-4b03-a48d-51220bc78d0c",
           "width": 320,
-          "x": 2335,
-          "y": -863,
+          "x": 827,
+          "y": -895,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -2970,12 +3267,12 @@
           "depth": 1,
           "height": 207,
           "layer": "",
-          "name": "NewSprite3",
+          "name": "smallTent",
           "persistentUuid": "e9a73798-161e-421a-b729-5b63be9b2d3c",
           "width": 207,
-          "x": -917,
-          "y": 8,
-          "zOrder": 4,
+          "x": -798,
+          "y": -110,
+          "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2989,8 +3286,8 @@
           "name": "Campfire",
           "persistentUuid": "7de95755-6b8e-4056-bafa-fd8d7828258e",
           "width": 75,
-          "x": -960,
-          "y": 281,
+          "x": -935,
+          "y": 324,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -3005,9 +3302,1165 @@
           "name": "thePlayer",
           "persistentUuid": "68356bf5-79a8-4054-ac1c-60ccd818538d",
           "width": 64,
-          "x": 2102,
-          "y": -413,
+          "x": 960,
+          "y": -579,
           "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 2694,
+          "layer": "",
+          "name": "ground",
+          "persistentUuid": "5dd781c0-c1b4-4cfa-9ea1-190ecbb4a8d3",
+          "width": 3840,
+          "x": -1022,
+          "y": -891,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 280,
+          "layer": "",
+          "name": "oneTree",
+          "persistentUuid": "65529d23-15ae-4292-b5fc-9e1fa2f11599",
+          "width": 280,
+          "x": -1049,
+          "y": -406,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 280,
+          "layer": "",
+          "name": "oneTree",
+          "persistentUuid": "9299a942-eb21-4934-9f7b-4344b022a5bd",
+          "width": 280,
+          "x": -903,
+          "y": -416,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 280,
+          "layer": "",
+          "name": "oneTree",
+          "persistentUuid": "054fbdfc-3993-48b2-9c90-5bb8bc43398a",
+          "width": 280,
+          "x": -711,
+          "y": -453,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 280,
+          "layer": "",
+          "name": "oneTree",
+          "persistentUuid": "1e2024fc-6976-4826-8658-a5b9971e4b09",
+          "width": 280,
+          "x": -475,
+          "y": -523,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 280,
+          "layer": "",
+          "name": "oneTree",
+          "persistentUuid": "d2193f7e-67d7-4fec-a9d9-409454a5adf7",
+          "width": 280,
+          "x": -1054,
+          "y": 586,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 280,
+          "layer": "",
+          "name": "oneTree",
+          "persistentUuid": "15487cbb-5401-4d5f-a23a-bd602133675c",
+          "width": 280,
+          "x": -897,
+          "y": 519,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 280,
+          "layer": "",
+          "name": "oneTree",
+          "persistentUuid": "21485af2-b7c9-432b-8cde-9be7eadfa1f5",
+          "width": 280,
+          "x": -989,
+          "y": 400,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 280,
+          "layer": "",
+          "name": "oneTree",
+          "persistentUuid": "b5289e0c-7e28-4510-a44b-381967cbf4ae",
+          "width": 280,
+          "x": -819,
+          "y": 628,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 280,
+          "layer": "",
+          "name": "oneTree",
+          "persistentUuid": "e2c2e3e1-1788-4438-9525-db3645664eea",
+          "width": 280,
+          "x": -974,
+          "y": 680,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 280,
+          "layer": "",
+          "name": "oneTree",
+          "persistentUuid": "28a05ff1-b5a3-4ffe-811b-63869cbe20a3",
+          "width": 280,
+          "x": -853,
+          "y": 334,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 121,
+          "layer": "",
+          "name": "largeSticks",
+          "persistentUuid": "9ca89531-c12f-48bf-ade1-548d541d7818",
+          "width": 130,
+          "x": -238,
+          "y": -569,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 109,
+          "layer": "",
+          "name": "largeSticks",
+          "persistentUuid": "ddd54305-4c59-4b21-a71c-22c3fd172390",
+          "width": 117,
+          "x": -295,
+          "y": -620,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 109,
+          "layer": "",
+          "name": "largeSticks",
+          "persistentUuid": "4ac37844-09ae-4d69-9eb3-bcbc2e54a103",
+          "width": 117,
+          "x": -359,
+          "y": -645,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 109,
+          "layer": "",
+          "name": "largeSticks",
+          "persistentUuid": "61bd7d11-e652-41e1-b260-96f462cadf8d",
+          "width": 117,
+          "x": -322,
+          "y": -530,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 109,
+          "layer": "",
+          "name": "largeSticks",
+          "persistentUuid": "56435f33-fd44-4163-94a2-975362b1eb97",
+          "width": 117,
+          "x": -410,
+          "y": -574,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 121,
+          "layer": "",
+          "name": "largeSticks",
+          "persistentUuid": "2aa94b60-d953-4da7-be46-3a6f0a7753b4",
+          "width": 130,
+          "x": -326,
+          "y": -722,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
+          "layer": "",
+          "name": "smallSticks",
+          "persistentUuid": "43eba676-51c9-4350-aecc-1f228ec1e4a4",
+          "width": 129,
+          "x": -500,
+          "y": -406,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
+          "layer": "",
+          "name": "smallSticks",
+          "persistentUuid": "39e87b72-7c14-41af-8dc2-6067aa480fc5",
+          "width": 129,
+          "x": -741,
+          "y": -503,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
+          "layer": "",
+          "name": "smallSticks",
+          "persistentUuid": "40ad198e-5f9d-4653-bad2-dbfeb39a14f3",
+          "width": 129,
+          "x": -637,
+          "y": -539,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
+          "layer": "",
+          "name": "smallSticks",
+          "persistentUuid": "e5cbf277-20dd-4a79-8bcf-58ee10736f41",
+          "width": 129,
+          "x": -257,
+          "y": -454,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
+          "layer": "",
+          "name": "smallSticks",
+          "persistentUuid": "bc2059a9-5528-466a-8b20-90638fe7ee56",
+          "width": 129,
+          "x": -180,
+          "y": -507,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
+          "layer": "",
+          "name": "smallSticks",
+          "persistentUuid": "143eab14-d175-4ebb-9559-b7c0a49e8f22",
+          "width": 129,
+          "x": -66,
+          "y": -866,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
+          "layer": "",
+          "name": "smallSticks",
+          "persistentUuid": "93cc80a9-834a-40f9-8620-607327cefe3a",
+          "width": 129,
+          "x": -250,
+          "y": -794,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
+          "layer": "",
+          "name": "smallSticks",
+          "persistentUuid": "b809ce20-7d81-48ee-8973-53a4d7faec9a",
+          "width": 129,
+          "x": -232,
+          "y": -874,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
+          "layer": "",
+          "name": "smallSticks",
+          "persistentUuid": "c519243c-5094-4371-a4b6-03d72963570b",
+          "width": 129,
+          "x": -75,
+          "y": -761,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
+          "layer": "",
+          "name": "smallSticks",
+          "persistentUuid": "3d259f1a-157d-4e74-b4e2-073ed55a4cb7",
+          "width": 129,
+          "x": -1016,
+          "y": -428,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 76,
+          "layer": "",
+          "name": "NPC2",
+          "persistentUuid": "27cca867-6c84-4409-a021-c2f5d9142b40",
+          "width": 66,
+          "x": 871,
+          "y": 1514,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "bigTent",
+          "persistentUuid": "e07b4f3b-fb41-4bc0-bc48-ef65a6818811",
+          "width": 0,
+          "x": 731,
+          "y": 1274,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "intersection",
+          "persistentUuid": "728f45a7-167a-40e3-ac0d-6cee564b512e",
+          "width": 0,
+          "x": -129,
+          "y": 227,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath",
+          "persistentUuid": "1653962b-f532-484f-b713-12e2d4645873",
+          "width": 0,
+          "x": -257,
+          "y": 228,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath",
+          "persistentUuid": "c24c9831-213e-459b-b92c-a74752c69f4a",
+          "width": 0,
+          "x": -384,
+          "y": 227,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath",
+          "persistentUuid": "fb6a3f21-f26f-410b-84cd-f8f834f73ed6",
+          "width": 0,
+          "x": -634,
+          "y": 227,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath",
+          "persistentUuid": "2bd29496-f942-4a09-948f-518e5cbd5177",
+          "width": 0,
+          "x": -508,
+          "y": 227,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 113,
+          "layer": "",
+          "name": "NPC1",
+          "persistentUuid": "48111c15-5faa-461f-965b-374be3cb839c",
+          "width": 83,
+          "x": -945,
+          "y": 192,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 271,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "NewSprite2",
+          "persistentUuid": "78c2f76d-ce35-4dc3-8b0d-7be02968117b",
+          "width": 0,
+          "x": -759,
+          "y": 224,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 179,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "deadEnd",
+          "persistentUuid": "53c3ae42-4753-461a-8f0d-4e62f5f0d971",
+          "width": 0,
+          "x": -886,
+          "y": 224,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath1",
+          "persistentUuid": "ff862a51-8149-4560-a6d6-90d9f55fdfed",
+          "width": 0,
+          "x": -756,
+          "y": 100,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath",
+          "persistentUuid": "cc294d43-5f79-4560-b373-278cfa1c1b97",
+          "width": 0,
+          "x": -3,
+          "y": 230,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath",
+          "persistentUuid": "d75580ac-dde3-47e9-8413-2d200bd44e5b",
+          "width": 0,
+          "x": 242,
+          "y": 235,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath",
+          "persistentUuid": "7da24f0e-748c-48bc-bab9-12827b6ebddc",
+          "width": 0,
+          "x": 116,
+          "y": 235,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "curve",
+          "persistentUuid": "17e9ae5f-3a54-45b5-a2d0-efaa396c6aa7",
+          "width": 0,
+          "x": 369,
+          "y": 235,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 181,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath1",
+          "persistentUuid": "104f2dd7-6b3e-44f5-b4da-39c8815cb859",
+          "width": 0,
+          "x": 366,
+          "y": 362,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 270,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "curve",
+          "persistentUuid": "5e622667-c211-4963-8fdc-caadc8865f24",
+          "width": 0,
+          "x": 365,
+          "y": 489,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath",
+          "persistentUuid": "b31a2fad-6e54-41ee-abfd-9c41bc7846a9",
+          "width": 0,
+          "x": 493,
+          "y": 488,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath1",
+          "persistentUuid": "700ea957-b4ee-45c1-b185-d764c3bd72e0",
+          "width": 0,
+          "x": -129,
+          "y": 355,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath1",
+          "persistentUuid": "5b9efbdc-c9b9-435a-af80-bb7f6cf65119",
+          "width": 0,
+          "x": -129,
+          "y": 483,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath",
+          "persistentUuid": "0411fb58-721f-4899-b351-dc30e80ed561",
+          "width": 0,
+          "x": -256,
+          "y": 611,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath",
+          "persistentUuid": "4f379eb7-198e-4ae5-80fc-bae6305e4e97",
+          "width": 0,
+          "x": -383,
+          "y": 610,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 181,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "deadEnd",
+          "persistentUuid": "4132bf6e-173a-446b-a94c-aace883fb624",
+          "width": 0,
+          "x": -510,
+          "y": 609,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 179,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "NewSprite2",
+          "persistentUuid": "34482b35-cd55-4d41-a087-750d1e0712aa",
+          "width": 0,
+          "x": -129,
+          "y": 610,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath1",
+          "persistentUuid": "6713ea60-ae45-4e36-9358-7b3ee544ae79",
+          "width": 0,
+          "x": -129,
+          "y": 737,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath1",
+          "persistentUuid": "0b233fe7-d815-41b1-ba7d-14b61a11db75",
+          "width": 0,
+          "x": -130,
+          "y": 865,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath1",
+          "persistentUuid": "518ce694-1933-410f-a84d-fb6174220b60",
+          "width": 0,
+          "x": -130,
+          "y": 993,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 274,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "curve",
+          "persistentUuid": "f6954826-3dd2-4eba-8180-962c5b43c9e1",
+          "width": 0,
+          "x": -134,
+          "y": 1119,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath",
+          "persistentUuid": "4edbbac3-dc23-41c7-ae39-ef6e3929b592",
+          "width": 0,
+          "x": -9,
+          "y": 1125,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath",
+          "persistentUuid": "8c1b29fe-36db-44dc-a6c4-b91b58fe2175",
+          "width": 0,
+          "x": 116,
+          "y": 1125,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath",
+          "persistentUuid": "d5acd035-17d9-44e2-8e4f-1079713c6bad",
+          "width": 0,
+          "x": 243,
+          "y": 1125,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 94,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "curve",
+          "persistentUuid": "01eea10d-ab82-4718-a809-7a7f7cc39996",
+          "width": 0,
+          "x": 367,
+          "y": 1130,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath1",
+          "persistentUuid": "76d1be0e-92c0-445c-b9dc-72f60d5d93f0",
+          "width": 0,
+          "x": 362,
+          "y": 1256,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath1",
+          "persistentUuid": "a59d9f4f-5d91-4013-b5cc-547707c88c7e",
+          "width": 0,
+          "x": 361,
+          "y": 1384,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 269,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "curve",
+          "persistentUuid": "dea8e5f8-8953-48c2-96f9-d50c5a25fc4e",
+          "width": 0,
+          "x": 361,
+          "y": 1509,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath",
+          "persistentUuid": "21a4183f-4664-4497-8585-48be246f5f29",
+          "width": 0,
+          "x": 487,
+          "y": 1509,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath",
+          "persistentUuid": "aab422b7-db89-42c2-9360-ebc426be2c74",
+          "width": 0,
+          "x": 612,
+          "y": 1510,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "deadEnd",
+          "persistentUuid": "09c7ff98-2e94-43df-86c7-db5b2891d469",
+          "width": 0,
+          "x": 740,
+          "y": 1509,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 181,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath1",
+          "persistentUuid": "9b642861-6b56-4f6d-951e-5af7d8965a37",
+          "width": 0,
+          "x": -129,
+          "y": 99,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 181,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath1",
+          "persistentUuid": "018dbaeb-3b95-4f01-9fe7-70fab568c30a",
+          "width": 0,
+          "x": -127,
+          "y": -29,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 181,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath1",
+          "persistentUuid": "9d825c9b-5c65-4ac0-88cc-f2796ffc9a83",
+          "width": 0,
+          "x": -125,
+          "y": -157,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 180,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "NewSprite2",
+          "persistentUuid": "2df42173-d732-4d91-99cb-9557f004d589",
+          "width": 0,
+          "x": -123,
+          "y": -285,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath",
+          "persistentUuid": "d6dcab9f-6ed7-4ee9-8279-57df07603c55",
+          "width": 0,
+          "x": -251,
+          "y": -286,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 180,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "deadEnd",
+          "persistentUuid": "6abd614b-f1e9-4817-a411-383336632474",
+          "width": 0,
+          "x": -378,
+          "y": -286,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "straightPath1",
+          "persistentUuid": "9ecac26b-0b1a-4ebe-8029-865505e5f040",
+          "width": 0,
+          "x": -120,
+          "y": -413,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 270,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "deadEnd",
+          "persistentUuid": "a7ca8b2e-69d0-4ebc-8ef0-10cf857b3161",
+          "width": 0,
+          "x": -118,
+          "y": -538,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 109,
+          "layer": "",
+          "name": "largeSticks",
+          "persistentUuid": "fd4afda5-ff04-4a7b-a583-8ee37b59d990",
+          "width": 117,
+          "x": -615,
+          "y": 794,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 109,
+          "layer": "",
+          "name": "largeSticks",
+          "persistentUuid": "edc645a3-61de-4cc1-87c6-230b491403d9",
+          "width": 117,
+          "x": -756,
+          "y": 878,
+          "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3091,7 +4544,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "NewSprite3",
+          "name": "smallTent",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -3152,7 +4605,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "710df4a0355bb8744f9ba8b61f6987bf410e8da6baf0b39feaca16ae6ed7b617",
-          "name": "Blacksmith",
+          "name": "NPC1",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -4473,68 +5926,6 @@
         },
         {
           "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "straightPath",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "medievalEnvironment_09",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "medievalTile_08.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 38,
-                            "y": 0
-                          },
-                          {
-                            "x": 90,
-                            "y": 0
-                          },
-                          {
-                            "x": 90,
-                            "y": 128
-                          },
-                          {
-                            "x": 38,
-                            "y": 128
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "facc84df0a5bdca0fc3187527f6033836af9053053b0b4ac980290470555a6db",
           "name": "thePlayer",
           "tags": "",
@@ -4596,9 +5987,9 @@
               "IsCalledManually": false
             },
             {
-              "allowDiagonals": false,
               "name": "TopDownMovement",
               "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+              "allowDiagonals": false,
               "acceleration": 400,
               "angleOffset": 0,
               "angularMaxSpeed": 180,
@@ -5302,16 +6693,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "medievalEnvironment_010",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "medievalEnvironment_010.png",
+                      "image": "medievalEnvironment_011",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5327,19 +6719,19 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 28,
-                            "y": 50
+                            "x": 31,
+                            "y": 60
                           },
                           {
-                            "x": 100,
-                            "y": 50
+                            "x": 122,
+                            "y": 60
                           },
                           {
-                            "x": 100,
+                            "x": 122,
                             "y": 80
                           },
                           {
-                            "x": 28,
+                            "x": 31,
                             "y": 80
                           }
                         ]
@@ -5363,16 +6755,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "medievalEnvironment_011",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "medievalEnvironment_011.png",
+                      "image": "medievalEnvironment_012",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5388,20 +6781,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 56,
-                            "y": 80
+                            "x": 26,
+                            "y": 58
                           },
                           {
-                            "x": 72,
-                            "y": 80
+                            "x": 46,
+                            "y": 58
                           },
                           {
-                            "x": 72,
-                            "y": 104
+                            "x": 46,
+                            "y": 71
                           },
                           {
-                            "x": 56,
-                            "y": 104
+                            "x": 26,
+                            "y": 71
                           }
                         ]
                       ]
@@ -5536,6 +6929,497 @@
                           {
                             "x": 5,
                             "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "curve",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "medievalTile_32",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "medievalTile_22.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 38,
+                            "y": 46
+                          },
+                          {
+                            "x": 128,
+                            "y": 46
+                          },
+                          {
+                            "x": 128,
+                            "y": 128
+                          },
+                          {
+                            "x": 38,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "11b6fe7c6148154b39b914c55ecbdc5a4cb8691bc0de4c45cfa67bea2cb5999a",
+          "name": "NPC2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Bard 7_Down_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 0
+                          },
+                          {
+                            "x": 15,
+                            "y": 0
+                          },
+                          {
+                            "x": 15,
+                            "y": 16
+                          },
+                          {
+                            "x": 2,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "bigTent",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "bigTent.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 4
+                          },
+                          {
+                            "x": 320,
+                            "y": 4
+                          },
+                          {
+                            "x": 320,
+                            "y": 216
+                          },
+                          {
+                            "x": 4,
+                            "y": 216
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "intersection",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "medievalTile_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 128
+                          },
+                          {
+                            "x": 0,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "straightPath",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "medievalTile_23",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "medievalTile_09.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 38
+                          },
+                          {
+                            "x": 128,
+                            "y": 38
+                          },
+                          {
+                            "x": 128,
+                            "y": 90
+                          },
+                          {
+                            "x": 0,
+                            "y": 90
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "straightPath1",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "medievalTile_010.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 38,
+                            "y": 0
+                          },
+                          {
+                            "x": 90,
+                            "y": 0
+                          },
+                          {
+                            "x": 90,
+                            "y": 128
+                          },
+                          {
+                            "x": 38,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "deadEnd",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "medievalTile_24.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 32
+                          },
+                          {
+                            "x": 96,
+                            "y": 32
+                          },
+                          {
+                            "x": 96,
+                            "y": 96
+                          },
+                          {
+                            "x": 0,
+                            "y": 96
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "medievalTile_28.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 37,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 0
+                          },
+                          {
+                            "x": 128,
+                            "y": 128
+                          },
+                          {
+                            "x": 37,
+                            "y": 128
                           }
                         ]
                       ]
