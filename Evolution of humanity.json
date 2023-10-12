@@ -1289,6 +1289,16 @@
         "name": "Idle-up",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "file": "assets/New sound effect.wav",
+        "kind": "audio",
+        "metadata": "{\"extension\":\".wav\",\"jfxr\":{\"data\":\"{\\\"_version\\\":1,\\\"_name\\\":\\\"Random 1\\\",\\\"_locked\\\":[],\\\"sampleRate\\\":44100,\\\"attack\\\":0.47000000000000003,\\\"sustain\\\":0,\\\"sustainPunch\\\":0,\\\"decay\\\":0,\\\"tremoloDepth\\\":0,\\\"tremoloFrequency\\\":10,\\\"frequency\\\":7100,\\\"frequencySweep\\\":-5500,\\\"frequencyDeltaSweep\\\":0,\\\"repeatFrequency\\\":59.6,\\\"frequencyJump1Onset\\\":33,\\\"frequencyJump1Amount\\\":0,\\\"frequencyJump2Onset\\\":66,\\\"frequencyJump2Amount\\\":0,\\\"harmonics\\\":0,\\\"harmonicsFalloff\\\":0.8200000000000001,\\\"waveform\\\":\\\"triangle\\\",\\\"interpolateNoise\\\":true,\\\"vibratoDepth\\\":440,\\\"vibratoFrequency\\\":266,\\\"squareDuty\\\":50,\\\"squareDutySweep\\\":0,\\\"flangerOffset\\\":0,\\\"flangerOffsetSweep\\\":0,\\\"bitCrush\\\":16,\\\"bitCrushSweep\\\":0,\\\"lowPassCutoff\\\":3800,\\\"lowPassCutoffSweep\\\":0,\\\"highPassCutoff\\\":8000,\\\"highPassCutoffSweep\\\":9600,\\\"compression\\\":1.8,\\\"normalization\\\":true,\\\"amplification\\\":100}\",\"name\":\"New sound effect\"}}",
+        "name": "New sound effect",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2032,7 +2042,7 @@
               },
               "parameters": [
                 "",
-                "\"hunterGatherer\""
+                "\"hunterGather\""
               ]
             }
           ]
@@ -2724,7 +2734,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.13935037485557,
+        "zoomFactor": 0.3768772036750928,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -2739,8 +2749,8 @@
           "name": "ground",
           "persistentUuid": "229961e6-4100-4fe1-a85a-b1bc7800a8f3",
           "width": 3840,
-          "x": -1762,
-          "y": -200,
+          "x": -1020,
+          "y": -890,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -2755,8 +2765,8 @@
           "name": "NewSprite",
           "persistentUuid": "5e1f5880-debf-4b03-a48d-51220bc78d0c",
           "width": 320,
-          "x": 1586,
-          "y": -188,
+          "x": 2335,
+          "y": -863,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -2771,8 +2781,8 @@
           "name": "oneTree",
           "persistentUuid": "660b05b4-ef21-45a9-84de-94f9645cf224",
           "width": 280,
-          "x": -1821,
-          "y": -190,
+          "x": -1072,
+          "y": -865,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -2787,8 +2797,8 @@
           "name": "oneTree",
           "persistentUuid": "00c67b8c-04d0-4e57-ae4e-f98b9ca27091",
           "width": 280,
-          "x": -1495,
-          "y": -224,
+          "x": -746,
+          "y": -899,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -2803,8 +2813,8 @@
           "name": "oneTree",
           "persistentUuid": "1b958b01-5972-4279-aef4-e474a4e853c5",
           "width": 280,
-          "x": -1634,
-          "y": -179,
+          "x": -885,
+          "y": -854,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -2819,8 +2829,8 @@
           "name": "oneTree",
           "persistentUuid": "53c02589-aa75-4d32-992c-fcdcec50cbcf",
           "width": 280,
-          "x": -1719,
-          "y": -269,
+          "x": -970,
+          "y": -944,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -2835,8 +2845,8 @@
           "name": "oneTree",
           "persistentUuid": "1430a0b5-0d5c-4b92-a731-460e7138fe7b",
           "width": 280,
-          "x": -1692,
-          "y": -47,
+          "x": -943,
+          "y": -722,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -2851,8 +2861,8 @@
           "name": "oneTree",
           "persistentUuid": "3b634fb6-bcf8-4a8e-b674-6a959ac403b0",
           "width": 280,
-          "x": -1844,
-          "y": 5,
+          "x": -1095,
+          "y": -670,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -2867,8 +2877,8 @@
           "name": "oneTree",
           "persistentUuid": "71c8f688-0ec8-46e0-8651-e1ba23fed217",
           "width": 280,
-          "x": -1553,
-          "y": 136,
+          "x": -804,
+          "y": -539,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -2883,8 +2893,8 @@
           "name": "oneTree",
           "persistentUuid": "447bf900-0fb5-449e-9ee1-8ddfd18b40a4",
           "width": 280,
-          "x": -1758,
-          "y": 122,
+          "x": -1009,
+          "y": -553,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -2899,8 +2909,8 @@
           "name": "oneTree",
           "persistentUuid": "ff6e535c-7adc-47e9-a523-3770cf76a691",
           "width": 280,
-          "x": -1520,
-          "y": -69,
+          "x": -771,
+          "y": -744,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -2915,8 +2925,8 @@
           "name": "oneTree",
           "persistentUuid": "2f8cf975-f4dc-4f9f-8cff-23d4577fdbee",
           "width": 280,
-          "x": -1395,
-          "y": 36,
+          "x": -646,
+          "y": -639,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -2931,8 +2941,8 @@
           "name": "oneTree",
           "persistentUuid": "96275d09-14d2-4bad-b1cb-901fa907c333",
           "width": 280,
-          "x": -1336,
-          "y": -131,
+          "x": -587,
+          "y": -806,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -2947,8 +2957,8 @@
           "name": "oneTree",
           "persistentUuid": "f132f55c-5aae-4eaa-a307-083a1e9121ab",
           "width": 280,
-          "x": -1288,
-          "y": -283,
+          "x": -539,
+          "y": -958,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -2963,8 +2973,8 @@
           "name": "NewSprite3",
           "persistentUuid": "e9a73798-161e-421a-b729-5b63be9b2d3c",
           "width": 207,
-          "x": -1666,
-          "y": 683,
+          "x": -917,
+          "y": 8,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -2979,8 +2989,8 @@
           "name": "Campfire",
           "persistentUuid": "7de95755-6b8e-4056-bafa-fd8d7828258e",
           "width": 75,
-          "x": -1709,
-          "y": 956,
+          "x": -960,
+          "y": 281,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -2995,8 +3005,8 @@
           "name": "thePlayer",
           "persistentUuid": "68356bf5-79a8-4054-ac1c-60ccd818538d",
           "width": 64,
-          "x": 1353,
-          "y": 262,
+          "x": 2102,
+          "y": -413,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -4586,10 +4596,10 @@
               "IsCalledManually": false
             },
             {
+              "allowDiagonals": false,
               "name": "TopDownMovement",
               "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "acceleration": 400,
-              "allowDiagonals": true,
               "angleOffset": 0,
               "angularMaxSpeed": 180,
               "customIsometryAngle": 30,
@@ -5538,6 +5548,38 @@
         }
       ],
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DoesSceneExist"
+              },
+              "parameters": [
+                "",
+                "\"hunterGather\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "FixCamera"
+              },
+              "parameters": [
+                "",
+                "thePlayer",
+                "-1020",
+                "-890",
+                "2820",
+                "2350",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
         {
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
