@@ -2134,6 +2134,33 @@
         "name": "medievalTile_34.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "bridge.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "bridge.jpg",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "mountains1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "mountains1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Mountains Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Mountains Background.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -3575,7 +3602,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.28905162031351245,
+        "zoomFactor": 0.44485159988869766,
         "windowMask": false
       },
       "objectsGroups": [
@@ -3662,8 +3689,8 @@
           "name": "NewSprite",
           "persistentUuid": "5e1f5880-debf-4b03-a48d-51220bc78d0c",
           "width": 320,
-          "x": 747,
-          "y": -948,
+          "x": 754,
+          "y": -880,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -4238,8 +4265,8 @@
           "name": "smallSticks",
           "persistentUuid": "143eab14-d175-4ebb-9559-b7c0a49e8f22",
           "width": 129,
-          "x": -66,
-          "y": -866,
+          "x": -170,
+          "y": -670,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -4254,8 +4281,8 @@
           "name": "smallSticks",
           "persistentUuid": "93cc80a9-834a-40f9-8620-607327cefe3a",
           "width": 129,
-          "x": -250,
-          "y": -794,
+          "x": -493,
+          "y": -492,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -4270,8 +4297,8 @@
           "name": "smallSticks",
           "persistentUuid": "b809ce20-7d81-48ee-8973-53a4d7faec9a",
           "width": 129,
-          "x": -232,
-          "y": -874,
+          "x": -196,
+          "y": -719,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -4286,8 +4313,8 @@
           "name": "smallSticks",
           "persistentUuid": "c519243c-5094-4371-a4b6-03d72963570b",
           "width": 129,
-          "x": -75,
-          "y": -761,
+          "x": -201,
+          "y": -401,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -8156,6 +8183,182 @@
           "width": 280,
           "x": 2292,
           "y": -72,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 366,
+          "layer": "",
+          "name": "mountains",
+          "persistentUuid": "9f60cfb0-086a-4645-a05d-6d8503d7621d",
+          "width": 387,
+          "x": 683,
+          "y": -1161,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 366,
+          "layer": "",
+          "name": "mountains",
+          "persistentUuid": "fb62dbe5-6585-48f0-a313-b568fc7d929e",
+          "width": 387,
+          "x": 960,
+          "y": -1092,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 366,
+          "layer": "",
+          "name": "mountains",
+          "persistentUuid": "2e6fca04-2fa1-43e8-b3fd-6bb196788cad",
+          "width": 387,
+          "x": 1208,
+          "y": -1221,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 366,
+          "layer": "",
+          "name": "mountains",
+          "persistentUuid": "8223eb96-c8ec-47bf-9c64-8cfe3ea85760",
+          "width": 387,
+          "x": 1509,
+          "y": -1165,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 366,
+          "layer": "",
+          "name": "mountains",
+          "persistentUuid": "e88103c6-fcc6-4a3d-9c15-2c32bf584792",
+          "width": 387,
+          "x": 1344,
+          "y": -1081,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 366,
+          "layer": "",
+          "name": "mountains",
+          "persistentUuid": "c8740532-a926-4d6b-9a7b-9de3cb74a80d",
+          "width": 387,
+          "x": 2019,
+          "y": -1128,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 366,
+          "layer": "",
+          "name": "mountains",
+          "persistentUuid": "548c07ca-3bb9-4079-8b99-1b3dc625f9cd",
+          "width": 387,
+          "x": 472,
+          "y": -1093,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 366,
+          "layer": "",
+          "name": "mountains",
+          "persistentUuid": "5d334aae-b186-4866-9366-7dade604bac5",
+          "width": 387,
+          "x": 244,
+          "y": -1117,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 366,
+          "layer": "",
+          "name": "mountains",
+          "persistentUuid": "fe4cfb6c-d362-4f79-a9f1-d5c565c7dc36",
+          "width": 387,
+          "x": -181,
+          "y": -1107,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 366,
+          "layer": "",
+          "name": "mountains",
+          "persistentUuid": "de095b90-c4ff-4dcb-9aa0-808927376f1b",
+          "width": 387,
+          "x": 21,
+          "y": -1092,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 518,
+          "layer": "",
+          "name": "river",
+          "persistentUuid": "0d8d568a-9a25-420b-9dfe-587d4736e06d",
+          "width": 128,
+          "x": 1896,
+          "y": -996,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -13440,6 +13643,67 @@
                           {
                             "x": 0,
                             "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "mountains",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "mountains.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 84,
+                            "y": 1
+                          },
+                          {
+                            "x": 84,
+                            "y": 91
+                          },
+                          {
+                            "x": 1,
+                            "y": 91
                           }
                         ]
                       ]
