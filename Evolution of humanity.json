@@ -3602,7 +3602,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.44485159988869766,
+        "zoomFactor": 0.19415059112742192,
         "windowMask": false
       },
       "objectsGroups": [
@@ -14031,7 +14031,7 @@
           "isLocked": true,
           "name": "fade",
           "renderingType": "",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": [
             {
@@ -14139,7 +14139,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.1700303648902893,
+        "zoomFactor": 0.19415059112740754,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -14148,82 +14148,21 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 0,
-          "height": 2694,
+          "depth": 1,
+          "height": 2950,
           "layer": "",
-          "name": "ground",
-          "persistentUuid": "9b83b1fc-71fe-4292-91bb-3d018e640ef3",
-          "width": 3840,
-          "x": -1027,
-          "y": -998,
-          "zOrder": -1,
+          "name": "NewTiledSprite",
+          "persistentUuid": "b205a465-45b0-4689-941e-4debe61f0028",
+          "width": 3983,
+          "x": -1015,
+          "y": -1014,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         }
       ],
       "objects": [
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "ground",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "medievalTile_60.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 128,
-                            "y": 0
-                          },
-                          {
-                            "x": 128,
-                            "y": 128
-                          },
-                          {
-                            "x": 0,
-                            "y": 128
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
@@ -14284,6 +14223,18 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "tags": "",
+          "texture": "medievalTile_59.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "events": [],
