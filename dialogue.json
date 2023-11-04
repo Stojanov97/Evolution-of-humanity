@@ -1,0 +1,1212 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Hey there, my friend. I'm Joe and I am going to be your assistant today.\nAre you starting to feel hungry? If so, let's embark on an adventure.\nFirst of all, you need to make a [b]spear[/b]. Let's go to the local craftsman and get one!\n<<set $majkaTiStepper=\"10\">>\n[[Let's go. |letsGo]]\n[[ Where can I find him? |letsGo]]",
+		"position": {
+			"x": -2202,
+			"y": -5906
+		},
+		"colorID": 7
+	},
+	{
+		"title": "letsGo",
+		"tags": "",
+		"body": "To get to the craftsman you need to go down ⬇️ by the trail and then turn left ⬅️, once you pass the bridge 🌉 ,take the next down ⬇️, than left ⬅️ and then up ⬆️.",
+		"position": {
+			"x": -2204,
+			"y": -5538
+		},
+		"colorID": 8
+	},
+	{
+		"title": "CraftsmanItt",
+		"tags": "",
+		"body": "Hello, what do you need? \n[[ Are you the craftsman? |RuDCraftsman]] \n[[ Nothing, just looking around |NothingCraft]]",
+		"position": {
+			"x": -1071,
+			"y": -5131
+		},
+		"colorID": 1
+	},
+	{
+		"title": "RuDCraftsman",
+		"tags": "",
+		"body": "Yes, how can I help you?\n[[ I need something to be made |optionsCraftsmanPolite]]\n[[ I want to get something |optionsCraftsmanRude]]",
+		"position": {
+			"x": -1071,
+			"y": -4908
+		},
+		"colorID": 0
+	},
+	{
+		"title": "rightAnswer",
+		"tags": "",
+		"body": "Sure, if you want it to be made first I will need a large stick and a stone.\nWhen you find all the necessary materials, come back here.   \n[[ Where can i find the stick? |stick]]\n[[ Where can i find the stone? |stone]]",
+		"position": {
+			"x": -1059,
+			"y": -3626
+		},
+		"colorID": 8
+	},
+	{
+		"title": "wrongAnswer",
+		"tags": "",
+		"body": "I don't understand what are you trying to say.\n[[ Try again |optionsCraftsman]]\n[[ Maybe next time |NothingCraft]]",
+		"position": {
+			"x": -1071,
+			"y": -4089
+		},
+		"colorID": 0
+	},
+	{
+		"title": "stick",
+		"tags": "",
+		"body": "You can find the stick in the trees nearby.\n<< stop>>",
+		"position": {
+			"x": -804,
+			"y": -3396
+		},
+		"colorID": 0
+	},
+	{
+		"title": "stone",
+		"tags": "",
+		"body": "If you want to get stone, you have to speak to the farmer.\nTo go to him just go up ⬆️.\nYou just have to say the secret code [b]\" [color=#ff0000]red[/color] apple \" 🍎.[/b]",
+		"position": {
+			"x": -1339,
+			"y": -3396
+		},
+		"colorID": 0
+	},
+	{
+		"title": "farmerItt",
+		"tags": "",
+		"body": "Hey, how can I help you today?\n[[ The craftsman sent me here and he told me that you can give me a stone. |askForCodePolite]]\n[[ I need you to give me a stone. |askForCodeRude]]\n[[ Nothing |Nothing]]",
+		"position": {
+			"x": -704,
+			"y": -3022
+		},
+		"colorID": 2
+	},
+	{
+		"title": "Nothing",
+		"tags": "",
+		"body": "Okay, see you.",
+		"position": {
+			"x": -486,
+			"y": -2734
+		},
+		"colorID": 0
+	},
+	{
+		"title": "correctCode",
+		"tags": "",
+		"body": "Good job, I will give you the stone now.",
+		"position": {
+			"x": -951,
+			"y": -2392
+		},
+		"colorID": 8
+	},
+	{
+		"title": "wrongCode",
+		"tags": "",
+		"body": "Sorry, that is not the correct code.😞\n[[ Try again |askForCode]]\n[[ Maybe next time |Nothing]]",
+		"position": {
+			"x": -700,
+			"y": -2400
+		},
+		"colorID": 0
+	},
+	{
+		"title": "SecondCraftsmanItt",
+		"tags": "",
+		"body": "Great, I see you got all the necessary materials. Now I can craft a [b]spear[/b].\n[[ Thank you so much, can I ask you for another favor? |favorPolite]]\n[[ Can you teach me how to hunt |negativeAnswerRude]]",
+		"position": {
+			"x": -1734,
+			"y": -1805
+		},
+		"colorID": 4
+	},
+	{
+		"title": "favorPolite",
+		"tags": "",
+		"body": "Sure, anything.\n[[ Can you teach me how to hunt? |negativeAnswer]]\n[[ Can you help me build a house?  |buildAhouse]]",
+		"position": {
+			"x": -1406,
+			"y": -1805
+		},
+		"colorID": 0
+	},
+	{
+		"title": "hunt",
+		"tags": "",
+		"body": "Do you want me to tell you where to find her?\n[[ Sure. |toTheHunter]]\n[[ Yes, I would like to know. |toTheHunter]]",
+		"position": {
+			"x": -1406,
+			"y": -1361
+		},
+		"colorID": 0
+	},
+	{
+		"title": "toTheHunter",
+		"tags": "",
+		"body": "Her name is Amy and she lives in the forest, but the way to her is a bit complicated. \nFirstly you need to go back across the bridge and go down ⬇️, then right ➡️ and you will go straight to the forest.\nLuckily from there, there are [color=#0000ff]blue[/color] flowers which are leading to her tent.\n[[ Thank you, have a  nice day |thanking]]\n[[ Okay, bye|thanking]]",
+		"position": {
+			"x": -1734,
+			"y": -1361
+		},
+		"colorID": 8
+	},
+	{
+		"title": "thanking",
+		"tags": "",
+		"body": "Have a nice day!",
+		"position": {
+			"x": -1734,
+			"y": -1140
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Hunter",
+		"tags": "",
+		"body": "Hi, I am Amy, how can I help you?\n[[ The craftsman told me that you can teach me how to hunt. |huntingStartPolite]] \n[[ I need some food, teach me how to hunt. |huntingStartRude]]\n[[ Never mind I don't need any help.|NothingForest]]",
+		"position": {
+			"x": -1395,
+			"y": -380
+		},
+		"colorID": 5
+	},
+	{
+		"title": "howToFindAnimal",
+		"tags": "",
+		"body": "Usually deers 🦌 are in places where there are mushrooms 🍄.\nYou just have to get close to it and hunt it.\nWhen you do that come back to me and I will also teach you how to cook the meat.\n[[ Okay, I will do that. Thank you for your help. |thankingAmy]]\n[[ Thanks |thankingAmy]]",
+		"position": {
+			"x": -1396,
+			"y": 54
+		},
+		"colorID": 8
+	},
+	{
+		"title": "BackToAmy",
+		"tags": "",
+		"body": "Did you do everything I told you?\n[[ Yes, I got the meat. Now can you teach me how to cook it? |cooking]] \n[[ I had trouble finding the animal, but I still got it. |cooking]]\n[[ Not yet. |goGetItThen]]",
+		"position": {
+			"x": -1215,
+			"y": 563
+		},
+		"colorID": 6
+	},
+	{
+		"title": "cooking",
+		"tags": "",
+		"body": "Great, let's get to the cooking!\nGo to the campfire and put the meat 🍖 there.",
+		"position": {
+			"x": -970,
+			"y": 563
+		},
+		"colorID": 8
+	},
+	{
+		"title": "thankingAmy",
+		"tags": "",
+		"body": "No problem, you are welcome!",
+		"position": {
+			"x": -1395,
+			"y": 265
+		},
+		"colorID": 0
+	},
+	{
+		"title": "NothingCraft",
+		"tags": "",
+		"body": "OK, bye!",
+		"position": {
+			"x": -382,
+			"y": -4441
+		},
+		"colorID": 0
+	},
+	{
+		"title": "merchantIttBeforeCraftsmanItt",
+		"tags": "",
+		"body": "Hey, how can I help you?\n[[ Are you the craftsman? |askIfCraftsmanMerchant]]\n[[ Nothing, just looking around. |justLooking]]",
+		"position": {
+			"x": -2033,
+			"y": -4908
+		},
+		"colorID": 1
+	},
+	{
+		"title": "justLooking",
+		"tags": "",
+		"body": "Okay, bye.",
+		"position": {
+			"x": -2166,
+			"y": -4108
+		},
+		"colorID": 0
+	},
+	{
+		"title": "barmaidIttBeforeCraftsmanItt",
+		"tags": "",
+		"body": "Hi, do you need any help?\n[[ Are you the craftsman? |askIfCraftsmanBarmaid]]\n[[ Nothing just looking around. |justLooking]]",
+		"position": {
+			"x": -2370,
+			"y": -4908
+		},
+		"colorID": 1
+	},
+	{
+		"title": "askIfCraftsmanBarmaid",
+		"tags": "",
+		"body": "No, but I can tell you where he is.\nFrom here go down ⬇️, left ⬅️ and at the end of the path go up ⬆️.",
+		"position": {
+			"x": -2371,
+			"y": -5136
+		},
+		"colorID": 0
+	},
+	{
+		"title": "askIfCraftsmanMerchant",
+		"tags": "",
+		"body": "No, I am not. To find him go right ➡️, up ⬆️, left ⬅️ and at the end of the path go up ⬆️.",
+		"position": {
+			"x": -2033,
+			"y": -5131
+		},
+		"colorID": 0
+	},
+	{
+		"title": "alchemistIttBeforeCraftsmanItt",
+		"tags": "",
+		"body": "Hey there, is there anything I can do for you?\n[[ Are you the craftsman? |askIfCraftsmanAlchemist]]\n[[ Nothing, just looking around. |justLooking]]",
+		"position": {
+			"x": -2672,
+			"y": -4908
+		},
+		"colorID": 1
+	},
+	{
+		"title": "askIfCraftsmanAlchemist",
+		"tags": "",
+		"body": "No, I am not, but I do know where you can find him.\nStarting here go down ⬇️, right ➡️, down ⬇️, left ⬅️, down ⬇️, left ⬅️, up ⬆️.",
+		"position": {
+			"x": -2672,
+			"y": -5131
+		},
+		"colorID": 0
+	},
+	{
+		"title": "merchantIttAfterCraftsmanItt",
+		"tags": "",
+		"body": "Hey, how can I help you?\n[[ Are you the farmer? |askIfFarmer]]\n[[ Nothing, just looking around. |justLooking]]",
+		"position": {
+			"x": -1889,
+			"y": -3018
+		},
+		"colorID": 2
+	},
+	{
+		"title": "askIfFarmer",
+		"tags": "",
+		"body": "No, I am not. To find him go right ➡️, up ⬆️, left ⬅️, up ⬆️,right ➡️ and than up ⬆️.",
+		"position": {
+			"x": -1889,
+			"y": -2726
+		},
+		"colorID": 0
+	},
+	{
+		"title": "barmaidIttAfterCraftsmanItt",
+		"tags": "",
+		"body": "Hi, do you need any help?\n[[ Are you the farmer? |askIfFarmerBarmaid]]\n[[ Nothing just looking around. |justLooking]]",
+		"position": {
+			"x": -2253,
+			"y": -3024
+		},
+		"colorID": 2
+	},
+	{
+		"title": "askIfFarmerBarmaid",
+		"tags": "",
+		"body": "No, but I can tell you where he is.\nFrom here go down ⬇️, left ⬅️, up ⬆️, right  ➡️and up ⬆️.",
+		"position": {
+			"x": -2253,
+			"y": -2744
+		},
+		"colorID": 0
+	},
+	{
+		"title": "alchemistIttAfterCraftsmanItt",
+		"tags": "",
+		"body": "Hey there, is there anything I can do for you?\n[[ Are you the farmer? |askIfFarmerAlchemist]]\n[[ Nothing just looking around. |justLooking]]",
+		"position": {
+			"x": -2577,
+			"y": -3024
+		},
+		"colorID": 2
+	},
+	{
+		"title": "askIfFarmerAlchemist",
+		"tags": "",
+		"body": "No, I am not, but I do know where you can find him.\nStarting here go down ⬇️, right ➡️ and up ⬆️.",
+		"position": {
+			"x": -2577,
+			"y": -2744
+		},
+		"colorID": 0
+	},
+	{
+		"title": "merchantIttAfterFarmerItt",
+		"tags": "",
+		"body": "Hey, how can I help you?\n[[ Do you know where I can find Amy? |askToForestMerchant]]\n[[ Nothing, just looking around. |justLooking]]",
+		"position": {
+			"x": -2748,
+			"y": -372
+		},
+		"colorID": 5
+	},
+	{
+		"title": "barmaidIttAfterFarmerItt",
+		"tags": "",
+		"body": "Hi, do you need any help?\n[[ Do you know where I can find Amy? |askToForestBarmaid]]\n[[ Nothing just looking around. |justLooking]]",
+		"position": {
+			"x": -2456,
+			"y": -372
+		},
+		"colorID": 5
+	},
+	{
+		"title": "askToForestMerchant",
+		"tags": "",
+		"body": "Yes, from here go down ⬇️, right ➡️, up ⬆️, left ⬅️, up ⬆️, right ➡️, cross the bridge 🌉. After you cross the bridge follow the path and take the first down ⬇️. Then there will be a sign that will tell you that you are on the right path to the forest, then just follow the [color=#0000ff]blue[/color] flowers.",
+		"position": {
+			"x": -2751,
+			"y": -158
+		},
+		"colorID": 0
+	},
+	{
+		"title": "askToForestBarmaid",
+		"tags": "",
+		"body": "Yes, from here just go down ⬇️, left ⬅️, up ⬆️, right ➡️,cross the bridge.  Then take the first down ⬇️ and there will be a sign that will tell you that you are on the right path to the forest, then just follow the [color=#0000ff]blue[/color] flowers.",
+		"position": {
+			"x": -2458,
+			"y": -158
+		},
+		"colorID": 0
+	},
+	{
+		"title": "alchemistIttAfterFarmerItt",
+		"tags": "",
+		"body": "Hey there, is there anything I can do for you?\n[[ Do you know where I can find Amy? |askToForestAlchemist]]\n[[ Nothing, just looking around. |justLooking]]",
+		"position": {
+			"x": -2990,
+			"y": -372
+		},
+		"colorID": 5
+	},
+	{
+		"title": "askToForestAlchemist",
+		"tags": "",
+		"body": "I do, first go down ⬇️ and then go right ➡️, cross the bridge 🌉 and follow the path until you see a path going down ⬇️. After you go down ⬇️ that path,there will be a sign telling you are on the right path to the forest, then just follow the [color=#0000ff]blue[/color] flowers.",
+		"position": {
+			"x": -2993,
+			"y": -158
+		},
+		"colorID": 0
+	},
+	{
+		"title": "goGetItThen",
+		"tags": "",
+		"body": "Alright then, go get it!",
+		"position": {
+			"x": -1462,
+			"y": 563
+		},
+		"colorID": 0
+	},
+	{
+		"title": "AfterFirstCraftmansItt",
+		"tags": "",
+		"body": "What have you got?\n[[ I was hoping that you can tell me again where should I go |repeatDirPolite]]\n[[ Repeat where I should go |repeatDirRude]]\n[[ Nothing yet |findSomething]]",
+		"position": {
+			"x": -1639,
+			"y": -3018
+		},
+		"colorID": 2
+	},
+	{
+		"title": "findSomething",
+		"tags": "",
+		"body": "Go and find something then!",
+		"position": {
+			"x": -1638,
+			"y": -2728
+		},
+		"colorID": 0
+	},
+	{
+		"title": "farmerItt_2AfterFarmerItt",
+		"tags": "",
+		"body": "Hi, do you need any help?\n[[ Do you know where I can find Amy? |askToForestFarmer]]\n[[ Nothing just looking around. |justLooking]]",
+		"position": {
+			"x": -2226,
+			"y": -372
+		},
+		"colorID": 5
+	},
+	{
+		"title": "askToForestFarmer",
+		"tags": "",
+		"body": "Yes, from here just go down ⬇️, right ➡️,cross the bridge. Then take the first down ⬇️ and there will be a sign that will tell you that you are on the right path to the forest, then just follow the [color=#0000ff]blue[/color] flowers.",
+		"position": {
+			"x": -2226,
+			"y": -158
+		},
+		"colorID": 0
+	},
+	{
+		"title": "FarmerIttBeforeCraftsmanItt_2",
+		"tags": "",
+		"body": "Hey, how can I help you?\n[[ Are you the craftsman? |askIfCraftsmanFarmer]]\n[[ Nothing, just looking around. |justLooking]]",
+		"position": {
+			"x": -1702,
+			"y": -4908
+		},
+		"colorID": 1
+	},
+	{
+		"title": "askIfCraftsmanFarmer",
+		"tags": "",
+		"body": "No, I am not. To find him go down ⬇️, left ⬅️, down ⬇️, left ⬅️ and at the end of the path go up ⬆️.",
+		"position": {
+			"x": -1702,
+			"y": -5131
+		},
+		"colorID": 0
+	},
+	{
+		"title": "farmerIttAfterStoneBeforeForest",
+		"tags": "",
+		"body": "Hi, I have already gave you the stone.\nIf you have the stick go straight to the craftsman.\nOtherwise first go get a stick and then go to the craftsman.",
+		"position": {
+			"x": -1359,
+			"y": -2164
+		},
+		"colorID": 3
+	},
+	{
+		"title": "optionsCraftsmanPolite",
+		"tags": "",
+		"body": "What do you want it to be?\n[[  spear |rightAnswer]]\n[[  spare |wrongAnswer]]\n[[  spaer |wrongAnswer]]\n[[  spere |wrongAnswer]]",
+		"position": {
+			"x": -1306,
+			"y": -4441
+		},
+		"colorID": 0
+	},
+	{
+		"title": "optionsCraftsmanRude",
+		"tags": "",
+		"body": "What do you want it to be?\n[[  spear |rightAnswer]]\n[[  spare |wrongAnswer]]\n[[  spaer |wrongAnswer]]\n[[  spere |wrongAnswer]]",
+		"position": {
+			"x": -824,
+			"y": -4441
+		},
+		"colorID": 0
+	},
+	{
+		"title": "craftsmanIttForForestLocation",
+		"tags": "",
+		"body": "Hi, do you need any help?\n[[ Do you know where I can find Amy? |askToForestCraftsman]]\n[[ Nothing just looking around. |justLooking]]",
+		"position": {
+			"x": -1937,
+			"y": -372
+		},
+		"colorID": 5
+	},
+	{
+		"title": "askToForestCraftsman",
+		"tags": "",
+		"body": "Yes, from here just go down ⬇️, right ➡️,up ⬆️, right ➡️, cross the bridge. Then take the first down ⬇️ and there will be a sign that will tell you that you are on the right path to the forest, then just follow the [color=#0000ff]blue[/color] flowers.",
+		"position": {
+			"x": -1937,
+			"y": -158
+		},
+		"colorID": 0
+	},
+	{
+		"title": "NothingForest",
+		"tags": "",
+		"body": "Okay, bye!",
+		"position": {
+			"x": -1395,
+			"y": -158
+		},
+		"colorID": 0
+	},
+	{
+		"title": "huntingStartPolite",
+		"tags": "",
+		"body": "Yes, indeed. The first thing you need is to find an animal.\n[[ How do I do that? |howToFindAnimal]]\n[[ Where can I find it? |howToFindAnimal]]",
+		"position": {
+			"x": -1642,
+			"y": -158
+		},
+		"colorID": 0
+	},
+	{
+		"title": "huntingStartRude",
+		"tags": "",
+		"body": "Yes, indeed. The first thing you need is to find an animal.\n[[ How do I do that? |howToFindAnimal]]\n[[ Where can I find it? |howToFindAnimal]]",
+		"position": {
+			"x": -1122,
+			"y": -158
+		},
+		"colorID": 0
+	},
+	{
+		"title": "askForCodePolite",
+		"tags": "",
+		"body": "I can give you the stone, but first you need to tell me the [b]secret code[/b]. \n[[ [color=#00ff00]green[/color] apple 🍏 |wrongCode]]\n[[ [color=#ffff00]yellow[/color] lemon 🍋 |wrongCode]] \n[[ [color=#ff0000]red[/color] Apple 🍎|correctCode]] \n[[ [color=#ff0000]red[/color] pineapple 🍍|wrongCode]]",
+		"position": {
+			"x": -923,
+			"y": -2736
+		},
+		"colorID": 0
+	},
+	{
+		"title": "askForCodeRude",
+		"tags": "",
+		"body": "I can give you the stone, but first you need to tell me the [b]secret code[/b]. \n[[ [color=#00ff00]green[/color] apple 🍏 |wrongCode]]\n[[ [color=#ffff00]yellow[/color] lemon 🍋 |wrongCode]] \n[[ [color=#ff0000]red[/color] Apple 🍎|correctCode]] \n[[ [color=#ff0000]red[/color] pineapple 🍍|wrongCode]]",
+		"position": {
+			"x": -704,
+			"y": -2735
+		},
+		"colorID": 0
+	},
+	{
+		"title": "repeatDirPolite",
+		"tags": "",
+		"body": "What do you want me to repeat to you? \n[[ Where can i find the stick? |stick]]\n[[ Where can i find the stone? |stone]]",
+		"position": {
+			"x": -1397,
+			"y": -3006
+		},
+		"colorID": 0
+	},
+	{
+		"title": "repeatDirRude",
+		"tags": "",
+		"body": "What do you want me to repeat to you? \n[[ Where can i find the stick? |stick]]\n[[ Where can i find the stone? |stone]]",
+		"position": {
+			"x": -1221,
+			"y": -2645
+		},
+		"colorID": 0
+	},
+	{
+		"title": "negativeAnswerRude",
+		"tags": "",
+		"body": "Sorry, but I am busy right now. I know someone who can teach you.\n[[ Okay.|hunt]]\n[[ Where can I find that person?|toTheHunter]]",
+		"position": {
+			"x": -1734,
+			"y": -1578
+		},
+		"colorID": 0
+	},
+	{
+		"title": "negativeAnswer",
+		"tags": "",
+		"body": "Sorry, but I am busy right now. I know someone who can teach you.\n[[ Okay.|hunt]]\n[[ Where can I find that person?|toTheHunter]]",
+		"position": {
+			"x": -1406,
+			"y": -1578
+		},
+		"colorID": 0
+	},
+	{
+		"title": "GetBoth",
+		"tags": "",
+		"body": "Great, now that you have both the stick and the stone, go to the craftsman and get your spear!\nYou should also ask him how to hunt.",
+		"position": {
+			"x": -1074,
+			"y": -2073
+		},
+		"colorID": 6
+	},
+	{
+		"title": "buildAhouse",
+		"tags": "",
+		"body": "Sorry, but I don't think that you meant to ask me that.\nWhat do you actually want to ask me?\n[[ Can you help me craft a car?  |buildAcar]]\n[[ Can you teach me how to hunt? |negativeAnswer]]",
+		"position": {
+			"x": -1108,
+			"y": -1805
+		},
+		"colorID": 0
+	},
+	{
+		"title": "buildAcar",
+		"tags": "",
+		"body": "Sorry, but I don't think that you meant to ask me that.\nWhat do you actually want to ask me?\n[[ Can you teach me how to hunt? |negativeAnswer]]\n[[ Can you help me get a girlfriend?  |getAgirl]]",
+		"position": {
+			"x": -819,
+			"y": -1578
+		},
+		"colorID": 0
+	},
+	{
+		"title": "getAgirl",
+		"tags": "",
+		"body": "Sorry, but I don't think that you meant to ask me that.\nWhat do you actually want to ask me?\n[[ Can you help me get a boyfriend?  |buildAhouse]]\n[[ Can you teach me how to hunt? |negativeAnswer]]",
+		"position": {
+			"x": -1108,
+			"y": -1361
+		},
+		"colorID": 0
+	},
+	{
+		"title": "start1",
+		"tags": "",
+		"body": "Good morning buddy, I have some bad news for you. The merchant is ill and you need to save him. Your task is to go to the alchemist and get some medicine and deliver it to the merchant. To get to her go down ⬇️, left ⬅️, across the bridge 🌉, straight ⬅️ and just follow the path to her she lives near two tents ⛺ and there are also some camels 🐫 there.",
+		"position": {
+			"x": 2581,
+			"y": -5813
+		},
+		"colorID": 7
+	},
+	{
+		"title": "alchemistIll",
+		"tags": "",
+		"body": "Hello, how can I help you? \n[[ Give me your medicine! |medicineRude]]\n[[ My friend is ill, I need some medicine quickly. |medicinePolite]]",
+		"position": {
+			"x": 2548,
+			"y": -5499
+		},
+		"colorID": 1
+	},
+	{
+		"title": "medicineRude",
+		"tags": "",
+		"body": "Okay, but that is going to cost you 5 coins.\n[[ I have no coins. |noCoins]]\n[[ I need it, please. |noCoins]]",
+		"position": {
+			"x": 2330,
+			"y": -5204
+		},
+		"colorID": 0
+	},
+	{
+		"title": "medicinePolite",
+		"tags": "",
+		"body": "Okay, but that is going to cost you 5 coins.\n[[ I have no coins. |noCoins]]\n[[ I need it, please. |noCoins]]",
+		"position": {
+			"x": 2718,
+			"y": -5204
+		},
+		"colorID": 0
+	},
+	{
+		"title": "noCoins",
+		"tags": "",
+		"body": "Alright then, come back when you have 5 coins.\n[[ Why does it cost so much, can't I get it for free? |asksForFree]]",
+		"position": {
+			"x": 2548,
+			"y": -4893
+		},
+		"colorID": 0
+	},
+	{
+		"title": "asksForFree",
+		"tags": "",
+		"body": "Unfortunately, no. Please come back when you get some coins.\nMaybe someone will give you coins.",
+		"position": {
+			"x": 2547,
+			"y": -4592
+		},
+		"colorID": 0
+	},
+	{
+		"title": "joeAfterAchemist",
+		"tags": "",
+		"body": "Ahh, crap. You have no coins. Go and check if the craftsman needs any paid help.",
+		"position": {
+			"x": 3311,
+			"y": -5813
+		},
+		"colorID": 8
+	},
+	{
+		"title": "coinsCraftsman",
+		"tags": "",
+		"body": "Hi there, what can I do for you? \n[[ Do you need any help? I need to earn some coins. |asksForWork]]\n[[ What can I do to earn some money? |offersHelp]]",
+		"position": {
+			"x": 3011,
+			"y": -4489
+		},
+		"colorID": 1
+	},
+	{
+		"title": "asksForWork",
+		"tags": "",
+		"body": "Sorry buddy, but I don't need any help right now. I may know someone who might be interested in your offer.\nI heard that the barmaid needs some help. \n[[ Where can I find her? |findBarmaid]]\n[[ How can I get to her? |findBarmaid]]",
+		"position": {
+			"x": 2726,
+			"y": -4195
+		},
+		"colorID": 0
+	},
+	{
+		"title": "offersHelp",
+		"tags": "",
+		"body": "I have heard that the barmaid needs some help and she is willing to pay for it.\n[[ Where can I find her? |findBarmaid]]\n[[ How can I get to her? |findBarmaid]]",
+		"position": {
+			"x": 3299,
+			"y": -4194
+		},
+		"colorID": 0
+	},
+	{
+		"title": "findBarmaid",
+		"tags": "",
+		"body": "Go down ⬇️, right ➡️, straight⬅️ and then up ⬆️.\n[[ Thanks |thankingPolite]]\n[[ (don't say anything) |thankingRude]]",
+		"position": {
+			"x": 3006,
+			"y": -3886
+		},
+		"colorID": 0
+	},
+	{
+		"title": "thankingPolite",
+		"tags": "",
+		"body": "No problem.",
+		"position": {
+			"x": 2807,
+			"y": -3604
+		},
+		"colorID": 0
+	},
+	{
+		"title": "thankingRude",
+		"tags": "",
+		"body": "Ok, bye.",
+		"position": {
+			"x": 3151,
+			"y": -3600
+		},
+		"colorID": 0
+	},
+	{
+		"title": "everybodyElse",
+		"tags": "",
+		"body": "Sorry buddy, I am too busy to talk right now.",
+		"position": {
+			"x": 3022,
+			"y": -4917
+		},
+		"colorID": 1
+	},
+	{
+		"title": "barmaidIll",
+		"tags": "",
+		"body": "Hi there, how can I help you?\n[[ I have heard that you need help…  |asksForJobPolite]]\n[[ What help do you need and how much would you pay me if I help you?  |asksForJobRude]]",
+		"position": {
+			"x": 2402,
+			"y": -3459
+		},
+		"colorID": 1
+	},
+	{
+		"title": "asksForJobPolite",
+		"tags": "",
+		"body": "Oh, yeah. I need help from someone to get me some milk from the farmer because I can’t leave my job for that, I will pay you with 6 coins if you do that.\n[[ Alright it sounds good, see you later. |goodOffer]]\n[[ I don’t like your offer. |dontLikeOffer]]",
+		"position": {
+			"x": 2579,
+			"y": -3143
+		},
+		"colorID": 0
+	},
+	{
+		"title": "asksForJobRude",
+		"tags": "",
+		"body": "Oh, yeah. I need help from someone to get me some milk from the farmer because I can’t leave my job for that, I will pay you with 6 coins if you do that.\n[[ Alright it sounds good, see you later. |goodOffer]]\n[[ I don’t like your offer. |dontLikeOffer]]",
+		"position": {
+			"x": 2199,
+			"y": -3144
+		},
+		"colorID": 0
+	},
+	{
+		"title": "goodOffer",
+		"tags": "",
+		"body": "See you!",
+		"position": {
+			"x": 2199,
+			"y": -2760
+		},
+		"colorID": 0
+	},
+	{
+		"title": "dontLikeOffer",
+		"tags": "",
+		"body": "What if I pay you with 7 coins?\n[[ Alright it sounds good, see you later. |goodOffer]]\n[[ I don’t like your offer. |dontLikeOfferAgain]]",
+		"position": {
+			"x": 2578,
+			"y": -2762
+		},
+		"colorID": 0
+	},
+	{
+		"title": "dontLikeOfferAgain",
+		"tags": "",
+		"body": "Sorry, I can’t pay you more.",
+		"position": {
+			"x": 2577,
+			"y": -2430
+		},
+		"colorID": 0
+	},
+	{
+		"title": "joeDontLikeOffer",
+		"tags": "",
+		"body": "Buddy you really need to get that medicine for the merchant he is getting worse.",
+		"position": {
+			"x": 2202,
+			"y": -2443
+		},
+		"colorID": 7
+	},
+	{
+		"title": "farmerMilk",
+		"tags": "",
+		"body": "Hi there, what can I do for you today?\n[[ The barmaid needs some milk so I came to get some for her. |milkForBarmaid]]\n[[ I need some milk. |milkForBarmaid]]",
+		"position": {
+			"x": 2021,
+			"y": -2164
+		},
+		"colorID": 1
+	},
+	{
+		"title": "milkForBarmaid",
+		"tags": "",
+		"body": "That will cost 3 coins.\n[[ I don’t have any coins. |dontHaveMnyFarm]]\n[[ Ok, never mind |neverMind]]",
+		"position": {
+			"x": 2021,
+			"y": -1879
+		},
+		"colorID": 0
+	},
+	{
+		"title": "dontHaveMnyFarm",
+		"tags": "",
+		"body": "Okay then, you can do me a favor and I will give it to you.\nI need someone to harvest my crops. So, are you in?\n[[ Sure! |sure]]\n[[ Ok, never mind. |neverMind]]",
+		"position": {
+			"x": 1758,
+			"y": -1611
+		},
+		"colorID": 0
+	},
+	{
+		"title": "neverMind",
+		"tags": "",
+		"body": "Okay.",
+		"position": {
+			"x": 2275,
+			"y": -1609
+		},
+		"colorID": 0
+	},
+	{
+		"title": "sure",
+		"tags": "",
+		"body": "Okay, great.",
+		"position": {
+			"x": 1971,
+			"y": -1271
+		},
+		"colorID": 0
+	},
+	{
+		"title": "joeAgain",
+		"tags": "",
+		"body": "Buddy you really need to get that medicine for the merchant, he is getting worse.",
+		"position": {
+			"x": 2356,
+			"y": -1363
+		},
+		"colorID": 7
+	},
+	{
+		"title": "farmerGiveMilk",
+		"tags": "",
+		"body": "I see you did the job.\n[[ It was hard, but I still did it. |harvestDone]]\n[[ It was an easy job. |harvestDone]]",
+		"position": {
+			"x": 2356,
+			"y": -1009
+		},
+		"colorID": 1
+	},
+	{
+		"title": "harvestDone",
+		"tags": "",
+		"body": "Here is your milk, have a nice day.",
+		"position": {
+			"x": 2356,
+			"y": -712
+		},
+		"colorID": 0
+	},
+	{
+		"title": "BarmaidWthMilk",
+		"tags": "",
+		"body": "I can see that you've completed the task.\n[[ Yes, give me my coins now! |giveMnyRude]]\n[[ Yes, Can I please get my coins now? |giveMnyPolite]]",
+		"position": {
+			"x": 1637,
+			"y": -818
+		},
+		"colorID": 1
+	},
+	{
+		"title": "giveMnyRude",
+		"tags": "",
+		"body": "Okay, here are your coins.",
+		"position": {
+			"x": 1470,
+			"y": -532
+		},
+		"colorID": 0
+	},
+	{
+		"title": "giveMnyPolite",
+		"tags": "",
+		"body": "Okay, here are your coins.",
+		"position": {
+			"x": 1817,
+			"y": -532
+		},
+		"colorID": 0
+	},
+	{
+		"title": "alchemistWthMny",
+		"tags": "",
+		"body": "Do you have 5 coins now?\n[[ Yes, I got it. |haveMny]]\n[[ Yes, now I can buy your medicine. |haveMny]]",
+		"position": {
+			"x": 2555,
+			"y": -342
+		},
+		"colorID": 1
+	},
+	{
+		"title": "haveMny",
+		"tags": "",
+		"body": "Good, here is your medicine.\n[[ Thank you, have a nice day. |thanksAlchemistPolite]]\n[[ (leaves) |thanksAlchemistRude]]",
+		"position": {
+			"x": 2557,
+			"y": -30
+		},
+		"colorID": 0
+	},
+	{
+		"title": "thanksAlchemistPolite",
+		"tags": "",
+		"body": "Have a nice day!",
+		"position": {
+			"x": 2278,
+			"y": -30
+		},
+		"colorID": 0
+	},
+	{
+		"title": "thanksAlchemistRude",
+		"tags": "",
+		"body": "Bye.",
+		"position": {
+			"x": 2839,
+			"y": -30
+		},
+		"colorID": 0
+	},
+	{
+		"title": "joeDirecMerchant",
+		"tags": "",
+		"body": "Good, you have the medicine. You just have to deliver it to the Merchant.\nTo get to him just go down ⬇️, right ➡️, down ⬇️, left ⬅️, down ⬇️, right ➡️, down ⬇️, left ⬅️.",
+		"position": {
+			"x": 3148,
+			"y": -20
+		},
+		"colorID": 7
+	},
+	{
+		"title": "CraftsmanDirecMerchant",
+		"tags": "",
+		"body": "Hi, how can I help you?\n[[ Can you tell me where is the merchant? |craftsmanDirecMerchantPolite]]\n[[ Tell me where is the merchant. |craftsmanDirecMerchantRude]]",
+		"position": {
+			"x": 1472,
+			"y": 280
+		},
+		"colorID": 1
+	},
+	{
+		"title": "askJobAgain",
+		"tags": "",
+		"body": "I already told you I don't have a job for you.",
+		"position": {
+			"x": 3547,
+			"y": -4489
+		},
+		"colorID": 1
+	},
+	{
+		"title": "craftsmanDirecMerchantPolite",
+		"tags": "",
+		"body": "From here go down ⬇️, right ➡️, down ⬇️ and then left ⬅️.",
+		"position": {
+			"x": 1250,
+			"y": 585
+		},
+		"colorID": 0
+	},
+	{
+		"title": "craftsmanDirecMerchantRude",
+		"tags": "",
+		"body": "From here go down ⬇️, right ➡️, down ⬇️ and then left ⬅️.",
+		"position": {
+			"x": 1661,
+			"y": 585
+		},
+		"colorID": 0
+	},
+	{
+		"title": "FarmerDirecMerchant",
+		"tags": "",
+		"body": "Hey there, how can I help you?\n[[ Can you tell me where is the merchant? |farmerDirecMerchantPolite]]\n[[ Tell me where is the merchant. |farmerDirecMerchantRude]]",
+		"position": {
+			"x": 2219,
+			"y": 280
+		},
+		"colorID": 1
+	},
+	{
+		"title": "farmerDirecMerchantPolite",
+		"tags": "",
+		"body": "Go Down ⬇️, left ⬅️, down ⬇️, right ➡️, down ⬇️, left ⬅️.",
+		"position": {
+			"x": 2026,
+			"y": 585
+		},
+		"colorID": 0
+	},
+	{
+		"title": "farmerDirecMerchantRude",
+		"tags": "",
+		"body": "Go Down ⬇️, left ⬅️, down ⬇️, right ➡️, down ⬇️, left ⬅️.",
+		"position": {
+			"x": 2368,
+			"y": 585
+		},
+		"colorID": 0
+	},
+	{
+		"title": "barmaidDirecMerchant",
+		"tags": "",
+		"body": "Hey there, how can I help you?\n[[ Can you tell me where is the merchant? |barmaidDirecMerchantPolite]]\n[[ Tell me where is the merchant. |barmaidDirecMerchantRude]]",
+		"position": {
+			"x": 2871,
+			"y": 280
+		},
+		"colorID": 1
+	},
+	{
+		"title": "barmaidDirecMerchantPolite",
+		"tags": "",
+		"body": "It's easy, just go down ⬇️ and left ⬅️.",
+		"position": {
+			"x": 2705,
+			"y": 585
+		},
+		"colorID": 0
+	},
+	{
+		"title": "barmaidDirecMerchantRude",
+		"tags": "",
+		"body": "It's easy, just go down ⬇️ and left ⬅️.",
+		"position": {
+			"x": 3045,
+			"y": 585
+		},
+		"colorID": 0
+	},
+	{
+		"title": "merchantIll",
+		"tags": "",
+		"body": "Why did you come here?\n[[ I'm here to heal you, |giveMedicine]]\n[[ I came so I can give you this medicine. |giveMedicine]]\n[[ Nothing, I'll leave |leave]]",
+		"position": {
+			"x": 2176,
+			"y": 934
+		},
+		"colorID": 1
+	},
+	{
+		"title": "giveMedicine",
+		"tags": "",
+		"body": "Really? Thank you so much.\nI owe you.",
+		"position": {
+			"x": 2176,
+			"y": 1220
+		},
+		"colorID": 0
+	},
+	{
+		"title": "leave",
+		"tags": "",
+		"body": "Bye.",
+		"position": {
+			"x": 2466,
+			"y": 934
+		},
+		"colorID": 0
+	},
+	{
+		"title": "joeMerchant",
+		"tags": "",
+		"body": "What are you doing? Go back and help the man.\n//ako otide nothing I'll leave.",
+		"position": {
+			"x": 2465,
+			"y": 1219
+		},
+		"colorID": 7
+	},
+	{
+		"title": "joeEnd",
+		"tags": "",
+		"body": "Congratulations, you saved the merchant.\nThat's all for now, see you in the next update 😉.",
+		"position": {
+			"x": 2341,
+			"y": 1541
+		},
+		"colorID": 8
+	},
+	{
+		"title": "askForCode",
+		"tags": "",
+		"body": "I can give you the stone, but first you need to tell me the [b]secret code[/b]. \n[[ [color=#00ff00]green[/color] apple 🍏 |wrongCode]]\n[[ [color=#ffff00]yellow[/color] lemon 🍋 |wrongCode]] \n[[ [color=#ff0000]red[/color] Apple 🍎|correctCode]] \n[[ [color=#ff0000]red[/color] pineapple 🍍|wrongCode]]",
+		"position": {
+			"x": -791,
+			"y": -2102
+		},
+		"colorID": 0
+	},
+	{
+		"title": "optionsCraftsman",
+		"tags": "",
+		"body": "What do you want it to be?\n[[  spear |rightAnswer]]\n[[  spare |wrongAnswer]]\n[[  spaer |wrongAnswer]]\n[[  spere |wrongAnswer]]",
+		"position": {
+			"x": -1441,
+			"y": -3969
+		},
+		"colorID": 0
+	}
+]
