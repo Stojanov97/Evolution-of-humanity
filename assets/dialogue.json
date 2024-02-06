@@ -382,20 +382,20 @@
 	{
 		"title": "askToForestMerchant",
 		"tags": "",
-		"body": "Yes, from here go down ⬇️, right ➡️, up ⬆️, left ⬅️, up ⬆️, right ➡️, cross the bridge 🌉. After you cross the bridge follow the path and take the first down ⬇️. \nThen there will be a sign that will tell you that you are on the right path to the forest, then just follow the [color=#0000ff]blue[/color] flowers.",
+		"body": "Yes, from here go down ⬇️, right ➡️, up ⬆️, left ⬅️, up ⬆️, right ➡️, cross the bridge 🌉. After you cross the bridge follow the path and take the first down ⬇️. \nThen there will be a sign that will tell you that you are on the right path to the forest, then just follow the flowers.",
 		"position": {
 			"x": -2751,
-			"y": -158
+			"y": -160
 		},
 		"colorID": 0
 	},
 	{
 		"title": "askToForestBarmaid",
 		"tags": "",
-		"body": "Yes, from here just go down ⬇️, left ⬅️, up ⬆️, right ➡️,cross the bridge.  Then take the first down ⬇️ and there will be a sign that will tell you that you are on the right path to the forest, then just follow the [color=#0000ff]blue[/color] flowers.",
+		"body": "Yes, from here just go down ⬇️, left ⬅️, up ⬆️, right ➡️,cross the bridge.  Then take the first down ⬇️ and there will be a sign that will tell you that you are on the right path to the forest, then just follow the flowers.",
 		"position": {
 			"x": -2458,
-			"y": -158
+			"y": -160
 		},
 		"colorID": 0
 	},
@@ -412,10 +412,10 @@
 	{
 		"title": "askToForestAlchemist",
 		"tags": "",
-		"body": "I do, first go down ⬇️ and then go right ➡️, cross the bridge 🌉 and follow the path until you see a path going down ⬇️. \nAfter you go down ⬇️ that path,there will be a sign telling you are on the right path to the forest, then just follow the [color=#0000ff]blue[/color] flowers.",
+		"body": "I do, first go down ⬇️ and then go right ➡️, cross the bridge 🌉 and follow the path until you see a path going down ⬇️. \nAfter you go down ⬇️ that path,there will be a sign telling you are on the right path to the forest, then just follow the flowers.",
 		"position": {
 			"x": -2993,
-			"y": -158
+			"y": -162
 		},
 		"colorID": 0
 	},
@@ -452,7 +452,7 @@
 	{
 		"title": "askToForestFarmer",
 		"tags": "",
-		"body": "Yes, from here just go down ⬇️, right ➡️,cross the bridge. Then take the first down ⬇️ and there will be a sign that will tell you that you are on the right path to the forest, then just follow the [color=#0000ff]blue[/color] flowers.",
+		"body": "Yes, from here just go down ⬇️, right ➡️,cross the bridge. Then take the first down ⬇️ and there will be a sign that will tell you that you are on the right path to the forest, then just follow the flowers.",
 		"position": {
 			"x": -2226,
 			"y": -158
@@ -522,7 +522,7 @@
 	{
 		"title": "askToForestCraftsman",
 		"tags": "",
-		"body": "Yes, from here just go down ⬇️, right ➡️,up ⬆️, right ➡️, cross the bridge. Then take the first down ⬇️ and there will be a sign that will tell you that you are on the right path to the forest, then just follow the [color=#0000ff]blue[/color] flowers.",
+		"body": "Yes, from here just go down ⬇️, right ➡️,up ⬆️, right ➡️, cross the bridge. Then take the first down ⬇️ and there will be a sign that will tell you that you are on the right path to the forest, then just follow the flowers.",
 		"position": {
 			"x": -1937,
 			"y": -158
