@@ -32,10 +32,10 @@
 	{
 		"title": "RuDCraftsman",
 		"tags": "",
-		"body": "Yes, how can I help you?\n[[ -I need something to be made |optionsCraftsmanPolite]]\n[[ -I want to get something |optionsCraftsmanRude]]",
+		"body": "Yes, how can I help you?\n[[ -I need you to make something for me|optionsCraftsmanPolite]]\n[[ -I want to get something |optionsCraftsmanRude]]",
 		"position": {
-			"x": -1071,
-			"y": -4908
+			"x": -1072,
+			"y": -4909
 		},
 		"colorID": 0
 	},
@@ -72,9 +72,9 @@
 	{
 		"title": "stone",
 		"tags": "",
-		"body": "If you want to get stone, you have to speak to the farmer.\nTo go to him just go up ⬆️.\nYou just have to say the secret code [b]\" [color=#ff0000]red[/color] apple \" 🍎.[/b]\n[[ -And what about the stick?|stick]]\n[[ -Okay, thank you |bye]]",
+		"body": "If you want to get the stone, you have to speak to the farmer.\nTo go to him just go up ⬆️.\nYou just have to say the secret code [b]\" [color=#ff0000]red[/color] apple \" 🍎.[/b]\n[[ -And what about the stick?|stick]]\n[[ -Okay, thank you |bye]]",
 		"position": {
-			"x": -1339,
+			"x": -1340,
 			"y": -3396
 		},
 		"colorID": 0
@@ -152,7 +152,7 @@
 	{
 		"title": "toTheHunter",
 		"tags": "",
-		"body": "Her name is Amy and she lives in the forest, but the way to her is a bit complicated. \nFirstly you need to go back across the bridge and go down ⬇️, then right ➡️ and you will go straight to the forest.\nLuckily from there, there are flowers which are leading to her tent.\n[[ -Thank you, have a  nice day |thanking]]\n[[ -Okay, bye|thanking]]",
+		"body": "Her name is Amy and she lives in the forest, but the way to her is a bit complicated. \nFirstly you need to go back across the bridge and go down ⬇️, then right ➡️ and you will go straight to the forest.\nLuckily from that point on, there are flowers which are leading to her tent.\n[[ -Thank you, have a  nice day |thanking]]\n[[ -Okay, bye|thanking]]",
 		"position": {
 			"x": -1736,
 			"y": -1363
@@ -182,17 +182,17 @@
 	{
 		"title": "howToFindAnimal",
 		"tags": "",
-		"body": "Usually deers 🦌 are in places where there are mushrooms 🍄.\nYou just have to get close to it and hunt it.\nWhen you do that come back to me and I will also teach you how to cook the meat.\n[[ -Thank you for your help. |thankingAmy]]\n[[ -Thanks |thankingAmy]]",
+		"body": "Usually deers 🦌 are in places where there are mushrooms 🍄.\nYou just have to get close and throw the spear at the deer 🦌!\nWhen you do that come back to me and I will also teach you how to cook the meat.\n[[ -Thank you for your help. |thankingAmy]]\n[[ -Thanks |thankingAmy]]",
 		"position": {
-			"x": -1396,
-			"y": 54
+			"x": -1397,
+			"y": 53
 		},
 		"colorID": 8
 	},
 	{
 		"title": "BackToAmy",
 		"tags": "",
-		"body": "Did you do everything I told you?\n[[ -Yes, I got the meat. |cooking]] \n[[ -Yes, I have. |cooking]]",
+		"body": "Did you do everything I told you to?\n[[ -Yes, I got the meat. |cooking]] \n[[ -Yes, I have. |cooking]]",
 		"position": {
 			"x": -1215,
 			"y": 563
@@ -662,7 +662,7 @@
 	{
 		"title": "start1",
 		"tags": "",
-		"body": "Good morning buddy, I have some bad news for you. The merchant is ill and you need to save him. Your task is to go to the alchemist and get some medicine and deliver it to the merchant.\nTo get to her go down ⬇️, left ⬅️, across the bridge 🌉, straight ⬅️ and just follow the path to her she lives near two tents ⛺ and there are also some camels 🐫 there.",
+		"body": "Good morning buddy, I have some bad news for you. The merchant is ill and you need to cure him. Your task is to go to the alchemist and get some medicine and deliver it to the merchant.\nTo get to her place, go down ⬇️, left ⬅️, across the bridge 🌉, then keep left ⬅️ and just follow the path to her house. She lives near two tents ⛺ and you will  also see some camels 🐫 there.",
 		"position": {
 			"x": 2548,
 			"y": -5797
@@ -742,7 +742,7 @@
 	{
 		"title": "asksForWork",
 		"tags": "",
-		"body": "Sorry buddy, but I don't need any help right now. I may know someone who might be interested in your offer.\nI heard that the barmaid needs some help. \n[[ -Where can I find her? |findBarmaid]]\n[[ -How can I get to her? |findBarmaid]]",
+		"body": "Sorry buddy, but I don't need any help right now. I may know someone who might be interested in your offer.\nI heard that the barmaid needs some help. \n[[ -Where can I find her? |findBarmaid]]\n[[ -How can I reach her? |findBarmaid]]",
 		"position": {
 			"x": 2726,
 			"y": -4195
@@ -752,7 +752,7 @@
 	{
 		"title": "offersHelp",
 		"tags": "",
-		"body": "I have heard that the barmaid needs some help and she is willing to pay for it.\n[[ -Where can I find her? |findBarmaid]]\n[[ -How can I get to her? |findBarmaid]]",
+		"body": "I have heard that the barmaid needs some help and she is willing to pay for it.\n[[ -Where can I find her? |findBarmaid]]\n[[ -How can I reach her? |findBarmaid]]",
 		"position": {
 			"x": 3299,
 			"y": -4194
@@ -802,7 +802,7 @@
 	{
 		"title": "barmaidIll",
 		"tags": "",
-		"body": "Hi there, how can I help you?\n[[ -I have heard that you need some help…  |asksForJobPolite]]\n[[ -How much would you pay me if I help you?  |asksForJobRude]]",
+		"body": "Hi there, how can I help you?\n[[ -I have heard that you need some help…  |asksForJobPolite]]\n[[ -How much would you pay me if I helped you?  |asksForJobRude]]",
 		"position": {
 			"x": 2402,
 			"y": -3459
@@ -812,7 +812,7 @@
 	{
 		"title": "asksForJobPolite",
 		"tags": "",
-		"body": "Oh, yeah. I need help from someone to get me some milk from the farmer because I can’t leave my job for that, I will pay you with 6 coins if you do that.\n[[ -Alright it sounds good, see you later. |goodOffer]]\n[[ -I don’t like your offer. |dontLikeOffer]]",
+		"body": "Oh, yeah. I need help from someone to bring me some milk from the farmer because I can’t leave my job for that, for that I will pay you with 6 coins.\n[[ -Alright it sounds good, see you later. |goodOffer]]\n[[ -I don’t like your offer. |dontLikeOffer]]",
 		"position": {
 			"x": 2579,
 			"y": -3143
@@ -822,7 +822,7 @@
 	{
 		"title": "asksForJobRude",
 		"tags": "",
-		"body": "Oh, yeah. I need help from someone to get me some milk from the farmer because I can’t leave my job for that, I will pay you with 6 coins if you do that.\n[[ -Alright it sounds good, see you later. |goodOffer]]\n[[ -I don’t like your offer. |dontLikeOffer]]",
+		"body": "Oh, yeah. I need help from someone to bring me some milk from the farmer because I can’t leave my job for that, for that I will pay you 6 coins.\n[[ -Alright it sounds good, see you later. |goodOffer]]\n[[ -I don’t like your offer. |dontLikeOffer]]",
 		"position": {
 			"x": 2199,
 			"y": -3144
@@ -842,10 +842,10 @@
 	{
 		"title": "dontLikeOffer",
 		"tags": "",
-		"body": "What if I pay you with 7 coins?\n[[ -Alright it sounds good, see you later. |goodOfferEx]]\n[[ -I don’t like your offer. |dontLikeOfferTwice]]",
+		"body": "What if I pay you 7 coins?\n[[ -Alright it sounds good, see you later. |goodOfferEx]]\n[[ -I don’t like your offer. |dontLikeOfferTwice]]",
 		"position": {
-			"x": 2578,
-			"y": -2762
+			"x": 2576,
+			"y": -2761
 		},
 		"colorID": 0
 	},
@@ -1122,7 +1122,7 @@
 	{
 		"title": "merchantIll",
 		"tags": "",
-		"body": "Why did you come here?\n[[ -I'm here to heal you, |giveMedicine]]\n[[ -I came so I can give you this medicine. |giveMedicine]]\n[[ -Nothing, I'll leave |leave]]",
+		"body": "Why did you come here?\n[[ -I'm here to heal you, |giveMedicine]]\n[[ -I came so that I can give you this medicine. |giveMedicine]]\n[[ -Nothing, I'll leave |leave]]",
 		"position": {
 			"x": 2176,
 			"y": 934
@@ -1222,10 +1222,10 @@
 	{
 		"title": "endForest",
 		"tags": "",
-		"body": "Hey buddy, this was a long day, wasn't it?\nLet's go to sleep at your home (It was the cave that was behind you when you spawned)",
+		"body": "Hey buddy, this was a long day, wasn't it?\nLet's go home and have some rest.(It is the cave that was behind you when you spawned)",
 		"position": {
-			"x": -643,
-			"y": 728
+			"x": -644,
+			"y": 727
 		},
 		"colorID": 7
 	},

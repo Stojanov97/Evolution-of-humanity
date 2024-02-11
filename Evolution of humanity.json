@@ -67591,7 +67591,7 @@
                 "RudoPolite",
                 "Text",
                 "=",
-                "\"You have successfully passed our game to the \"+ ToString(GlobalVariable(level)) + \"th level with the rudeness/politeness of \"+ToString(GlobalVariable(politeness))+\", we are looking forward adding an update with more content, so if you liked it don't miss out on the update \""
+                "\"You have successfully passed our game to the \"+ ToString(GlobalVariable(level)) + \"th level with the rudeness/politeness of \"+ToString(GlobalVariable(politeness))+\", we are looking forward to adding an update with more content, so if you liked it don't miss out on the update. \""
               ]
             }
           ]
@@ -76761,7 +76761,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 2.045294289472485,
+        "zoomFactor": 0.5079575118131998,
         "windowMask": false
       },
       "objectsGroups": [
