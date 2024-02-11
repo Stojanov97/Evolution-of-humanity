@@ -11259,6 +11259,15 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "image.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "image.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -11771,6 +11780,26 @@
                 "b": 255,
                 "g": 255,
                 "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Start the Game",
+                "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+                "textAlignment": "center",
+                "characterSize": 30,
+                "color": "255;255;255"
               }
             },
             "Pressed": {
@@ -11804,6 +11833,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Evolution of Humanity\n   -Hunter Gatherer-",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 72,
+            "color": "255;255;255"
           }
         },
         {
@@ -11855,6 +11904,26 @@
                 "b": 255,
                 "g": 255,
                 "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Settings",
+                "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+                "textAlignment": "center",
+                "characterSize": 30,
+                "color": "255;255;255"
               }
             },
             "Pressed": {
@@ -11918,6 +11987,26 @@
                 "b": 221,
                 "g": 221,
                 "r": 221
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "It displays the value when it changes.",
+                "font": "",
+                "textAlignment": "",
+                "characterSize": 16,
+                "color": "221;221;221"
               }
             },
             "Thumb": {
@@ -12011,6 +12100,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Controls:",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
           }
         },
         {
@@ -12032,6 +12141,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Volume:",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
           }
         },
         {
@@ -12053,6 +12182,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Main volume:",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "left",
+            "characterSize": 25,
+            "color": "255;255;255"
           }
         },
         {
@@ -12074,6 +12223,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Movement:",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "left",
+            "characterSize": 25,
+            "color": "255;255;255"
           }
         },
         {
@@ -12095,6 +12264,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Interaction:",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "left",
+            "characterSize": 25,
+            "color": "255;255;255"
           }
         },
         {
@@ -12116,6 +12305,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "or\n",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "left",
+            "characterSize": 25,
+            "color": "255;255;255"
           }
         },
         {
@@ -12257,6 +12466,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Press ESC to get back to the main screen",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 20,
+            "color": "255;255;255"
           }
         },
         {
@@ -12308,6 +12537,26 @@
                 "b": 255,
                 "g": 255,
                 "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "EXIT THE GAME",
+                "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+                "textAlignment": "center",
+                "characterSize": 30,
+                "color": "255;255;255"
               }
             },
             "Pressed": {
@@ -12951,7 +13200,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6846283916655485,
+        "zoomFactor": 0.3895856273828108,
         "windowMask": false
       },
       "objectsGroups": [
@@ -32837,7 +33086,7 @@
           "persistentUuid": "0f983826-8777-4a4f-9272-9b152915a7aa",
           "width": 1920,
           "x": 0,
-          "y": 495,
+          "y": 500,
           "zOrder": 643,
           "numberProperties": [],
           "stringProperties": [],
@@ -37377,6 +37626,22 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 284,
+          "layer": "fade",
+          "name": "disclaimer",
+          "persistentUuid": "d0ebc005-8836-4af5-bb74-d9807a6509ad",
+          "width": 2139,
+          "x": -124,
+          "y": 410,
+          "zOrder": 2359,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -37521,6 +37786,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "The Game is Paused",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
           }
         },
         {
@@ -37542,6 +37827,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Press ESC to get back in the game",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
           }
         },
         {
@@ -53925,6 +54230,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Controls",
+            "font": "",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
           }
         },
         {
@@ -53946,6 +54271,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Volume",
+            "font": "",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
           }
         },
         {
@@ -57982,6 +58327,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "- Hunter Gatherer -",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 80,
+            "color": "255;255;255"
           }
         },
         {
@@ -58003,6 +58368,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Controls:",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
           }
         },
         {
@@ -58024,6 +58409,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Volume:",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
           }
         },
         {
@@ -58045,6 +58450,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Main volume:",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 25,
+            "color": "255;255;255"
           }
         },
         {
@@ -58066,6 +58491,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Interaction:",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 25,
+            "color": "255;255;255"
           }
         },
         {
@@ -58305,6 +58750,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "or",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 25,
+            "color": "255;255;255"
           }
         },
         {
@@ -58483,6 +58948,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Press ESC to get back to the game",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 20,
+            "color": "255;255;255"
           }
         },
         {
@@ -58534,6 +59019,26 @@
                 "b": 221,
                 "g": 221,
                 "r": 221
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "It displays the value when it changes.",
+                "font": "",
+                "textAlignment": "",
+                "characterSize": 16,
+                "color": "221;221;221"
               }
             },
             "Thumb": {
@@ -58597,6 +59102,26 @@
                 "b": 255,
                 "g": 255,
                 "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Settings",
+                "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+                "textAlignment": "center",
+                "characterSize": 20,
+                "color": "255;255;255"
               }
             },
             "Pressed": {
@@ -58660,6 +59185,26 @@
                 "b": 255,
                 "g": 255,
                 "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Exit",
+                "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+                "textAlignment": "center",
+                "characterSize": 20,
+                "color": "255;255;255"
               }
             },
             "Pressed": {
@@ -64076,6 +64621,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "This way to the forest\n------->\nForest, west",
+            "font": "21bcfe4bb1045b82ecde51b2c493fc80da9496fb2f12e2e874a799d97505b795_Goldman-Regular.ttf",
+            "textAlignment": "center",
+            "characterSize": 80,
+            "color": "255;255;255"
           }
         },
         {
@@ -64097,6 +64662,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "This is your beloved cave as well as your home",
+            "font": "21bcfe4bb1045b82ecde51b2c493fc80da9496fb2f12e2e874a799d97505b795_Goldman-Regular.ttf",
+            "textAlignment": "center",
+            "characterSize": 80,
+            "color": "255;255;255"
           }
         },
         {
@@ -64160,6 +64745,26 @@
                 "b": 255,
                 "g": 255,
                 "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "",
+                "font": "",
+                "textAlignment": "center",
+                "characterSize": 16,
+                "color": "255;255;255"
               }
             }
           }
@@ -64815,6 +65420,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "6",
+            "font": "21bcfe4bb1045b82ecde51b2c493fc80da9496fb2f12e2e874a799d97505b795_Goldman-Regular.ttf",
+            "textAlignment": "left",
+            "characterSize": 30,
+            "color": "255;255;255"
           }
         },
         {
@@ -65548,6 +66173,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "You have successfully passed our game to the maximum 4th level with the rudeness/politeness of ",
+            "font": "21bcfe4bb1045b82ecde51b2c493fc80da9496fb2f12e2e874a799d97505b795_Goldman-Regular.ttf",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
           }
         },
         {
@@ -65599,6 +66244,26 @@
                 "b": 255,
                 "g": 255,
                 "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Start the game again",
+                "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+                "textAlignment": "center",
+                "characterSize": 30,
+                "color": "255;255;255"
               }
             },
             "Pressed": {
@@ -65662,6 +66327,26 @@
                 "b": 255,
                 "g": 255,
                 "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Exit the game",
+                "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+                "textAlignment": "center",
+                "characterSize": 30,
+                "color": "255;255;255"
               }
             },
             "Pressed": {
@@ -65675,6 +66360,22 @@
               "width": 348
             }
           }
+        },
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "disclaimer",
+          "rightMargin": 0,
+          "texture": "image.png",
+          "tiled": true,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -65682,9 +66383,6 @@
         "children": [
           {
             "objectName": "borders"
-          },
-          {
-            "objectName": "fade"
           },
           {
             "objectName": "GameIsPaused"
@@ -65709,6 +66407,12 @@
           },
           {
             "objectName": "Bridge1"
+          },
+          {
+            "objectName": "fade"
+          },
+          {
+            "objectName": "disclaimer"
           },
           {
             "objectName": "Bridge2"
@@ -66789,6 +67493,17 @@
               },
               "parameters": [
                 "RudoPolite",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "disclaimer",
                 "Opacity",
                 "=",
                 "0"
@@ -69614,6 +70329,17 @@
             },
             {
               "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "disclaimer",
+                "Opacity",
+                "+",
+                "10"
+              ]
+            },
+            {
+              "type": {
                 "value": "ShowLayer"
               },
               "parameters": [
@@ -69634,7 +70360,7 @@
                 "",
                 "\"end\"",
                 ">=",
-                "0.2"
+                "3"
               ]
             }
           ],
@@ -69660,6 +70386,17 @@
                 "+",
                 "10"
               ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "disclaimer",
+                "Opacity",
+                "=",
+                "0"
+              ]
             }
           ]
         },
@@ -69674,7 +70411,7 @@
                 "",
                 "\"end\"",
                 ">=",
-                "1.8"
+                "4.8"
               ]
             }
           ],
@@ -72171,9 +72908,9 @@
               },
               "parameters": [
                 "",
-                "angelical-pad-143276.mp3",
+                "desert-voices-11468.mp3",
                 "yes",
-                "30",
+                "100",
                 ""
               ]
             },
@@ -81050,66 +81787,6 @@
           "customSize": false,
           "height": 0,
           "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "512f0d7c-a83b-4549-bc95-db61423d6b71",
-          "width": 0,
-          "x": 448,
-          "y": 480,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "d1a27547-b83a-4970-a6be-dcc71bdbb1fa",
-          "width": 0,
-          "x": 272,
-          "y": 224,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "12dd4ab3-5af1-4332-abef-5773da89201d",
-          "width": 0,
-          "x": 400,
-          "y": 192,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "a9c7a486-3afd-4dfc-970f-3c9a2bb17351",
-          "width": 0,
-          "x": 752,
-          "y": 416,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
           "name": "fallenlog",
           "persistentUuid": "2469cfa8-6a35-4d08-8a49-28c616f4448c",
           "width": 0,
@@ -81245,66 +81922,6 @@
           "customSize": false,
           "height": 0,
           "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "13fe4dd7-4eed-4c0e-bfb9-b0bce5180d2a",
-          "width": 0,
-          "x": 704,
-          "y": 624,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "c44b03a8-d7e7-4230-92c6-b4621172dffd",
-          "width": 0,
-          "x": 752,
-          "y": 576,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "63637e5b-cc0b-4b0d-8e02-46665c1905c3",
-          "width": 0,
-          "x": 752,
-          "y": 608,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "c8fb6176-a48c-4be9-a699-f05eaf2c2691",
-          "width": 0,
-          "x": 672,
-          "y": 704,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
           "name": "fallenlog",
           "persistentUuid": "39b2db9b-c308-4a7c-bbea-35e0fd02de89",
           "width": 0,
@@ -81355,21 +81972,6 @@
           "width": 0,
           "x": 752,
           "y": 224,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "50b54a19-3b01-49fb-a86d-b97ddb99ad93",
-          "width": 0,
-          "x": 672,
-          "y": 256,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -81500,36 +82102,6 @@
           "customSize": false,
           "height": 0,
           "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "fafa7210-4632-404d-8442-9399dad51831",
-          "width": 0,
-          "x": 848,
-          "y": 640,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "969b6a51-d407-423f-857b-5b08e281a5ac",
-          "width": 0,
-          "x": 912,
-          "y": 624,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
           "name": "fallenlog",
           "persistentUuid": "af9e5684-adf9-4deb-8d14-840f1873fa35",
           "width": 0,
@@ -81611,111 +82183,6 @@
           "x": 1136,
           "y": 688,
           "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "797f601e-dae0-4afa-bac1-d70540d46077",
-          "width": 0,
-          "x": 1120,
-          "y": 720,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "c1288cd2-7651-483c-8e72-3e9e08448fdc",
-          "width": 0,
-          "x": 1232,
-          "y": 704,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "cdde2b4c-06c1-46a5-8f83-16349a75fa7e",
-          "width": 0,
-          "x": 1200,
-          "y": 816,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "5cb4e747-a6bd-4e87-9842-73ab1f1e03ee",
-          "width": 0,
-          "x": 1104,
-          "y": 832,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "99b9615e-1990-4412-a6d9-3a77945fbc49",
-          "width": 0,
-          "x": 1216,
-          "y": 832,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "dc29dedb-f81b-4421-b2da-d3ef94f32612",
-          "width": 0,
-          "x": 1136,
-          "y": 704,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "41d9552c-e6ad-4a21-97d6-864610e2e712",
-          "width": 0,
-          "x": 1120,
-          "y": 640,
-          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -82391,51 +82858,6 @@
           "x": 1604,
           "y": 179,
           "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "ab074a1f-62c0-4bfe-97ed-d3094661e404",
-          "width": 0,
-          "x": 1748,
-          "y": 499,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "7128677f-c762-4556-92fe-df763f12496a",
-          "width": 0,
-          "x": 1572,
-          "y": 211,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "kitka4",
-          "persistentUuid": "0456c414-83fa-4393-afca-61f15080c08f",
-          "width": 0,
-          "x": 1700,
-          "y": 179,
-          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -93142,67 +93564,6 @@
         },
         {
           "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "kitka4",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "NewSprite4",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite11",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 6
-                          },
-                          {
-                            "x": 13,
-                            "y": 6
-                          },
-                          {
-                            "x": 13,
-                            "y": 16
-                          },
-                          {
-                            "x": 0,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "c8477c4c99a18c86dfbf24b5dc7a4d27e42ea61e1d79bdd271db666f617cea9a",
           "name": "thePlayer",
           "type": "Sprite",
@@ -95175,6 +95536,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "The game is paused",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
           }
         },
         {
@@ -95196,6 +95577,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Press ESC to get back in the game",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
           }
         },
         {
@@ -95247,6 +95648,26 @@
                 "b": 255,
                 "g": 255,
                 "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Settings",
+                "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+                "textAlignment": "center",
+                "characterSize": 20,
+                "color": "255;255;255"
               }
             },
             "Pressed": {
@@ -95310,6 +95731,26 @@
                 "b": 255,
                 "g": 255,
                 "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Exit",
+                "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+                "textAlignment": "center",
+                "characterSize": 20,
+                "color": "255;255;255"
               }
             },
             "Pressed": {
@@ -95372,6 +95813,26 @@
                 "b": 221,
                 "g": 221,
                 "r": 221
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "It displays the value when it changes.",
+                "font": "",
+                "textAlignment": "",
+                "characterSize": 16,
+                "color": "221;221;221"
               }
             },
             "Thumb": {
@@ -95405,6 +95866,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Press ESC to get back to the game",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 20,
+            "color": "255;255;255"
           }
         },
         {
@@ -95426,6 +95907,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Interaction:",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 25,
+            "color": "255;255;255"
           }
         },
         {
@@ -95447,6 +95948,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Controls:",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
           }
         },
         {
@@ -95468,6 +95989,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Volume:",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
           }
         },
         {
@@ -95489,6 +96030,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Main volume:",
+            "font": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+            "textAlignment": "center",
+            "characterSize": 25,
+            "color": "255;255;255"
           }
         },
         {
@@ -95630,6 +96191,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Interact",
+            "font": "21bcfe4bb1045b82ecde51b2c493fc80da9496fb2f12e2e874a799d97505b795_Goldman-Regular.ttf",
+            "textAlignment": "center",
+            "characterSize": 30,
+            "color": "255;255;255"
           }
         },
         {
@@ -96143,6 +96724,26 @@
                 "b": 255,
                 "g": 255,
                 "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "8 / 16",
+                "font": "",
+                "textAlignment": "center",
+                "characterSize": 16,
+                "color": "255;255;255"
               }
             }
           }
@@ -97104,6 +97705,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "6",
+            "font": "21bcfe4bb1045b82ecde51b2c493fc80da9496fb2f12e2e874a799d97505b795_Goldman-Regular.ttf",
+            "textAlignment": "left",
+            "characterSize": 30,
+            "color": "255;255;255"
           }
         },
         {
@@ -97965,9 +98586,6 @@
           },
           {
             "objectName": "NewSprite3"
-          },
-          {
-            "objectName": "kitka4"
           },
           {
             "objectName": "thePlayer"
@@ -101878,6 +102496,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Use these buttons for:",
+            "font": "21bcfe4bb1045b82ecde51b2c493fc80da9496fb2f12e2e874a799d97505b795_Goldman-Regular.ttf",
+            "textAlignment": "center",
+            "characterSize": 50,
+            "color": "255;255;255"
           }
         },
         {
@@ -101899,6 +102537,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Moving",
+            "font": "21bcfe4bb1045b82ecde51b2c493fc80da9496fb2f12e2e874a799d97505b795_Goldman-Regular.ttf",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
           }
         },
         {
@@ -101920,6 +102578,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Interaction with objects",
+            "font": "21bcfe4bb1045b82ecde51b2c493fc80da9496fb2f12e2e874a799d97505b795_Goldman-Regular.ttf",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
           }
         },
         {
@@ -101941,6 +102619,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Changing the dialogue text",
+            "font": "21bcfe4bb1045b82ecde51b2c493fc80da9496fb2f12e2e874a799d97505b795_Goldman-Regular.ttf",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
           }
         },
         {
@@ -102022,6 +102720,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Changing the selected option",
+            "font": "21bcfe4bb1045b82ecde51b2c493fc80da9496fb2f12e2e874a799d97505b795_Goldman-Regular.ttf",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
           }
         },
         {
@@ -102043,6 +102761,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "*The selected option will have a \">\" in front of it",
+            "font": "21bcfe4bb1045b82ecde51b2c493fc80da9496fb2f12e2e874a799d97505b795_Goldman-Regular.ttf",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
           }
         },
         {
@@ -102106,6 +102844,26 @@
                 "b": 255,
                 "g": 255,
                 "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "8 / 16",
+                "font": "",
+                "textAlignment": "center",
+                "characterSize": 16,
+                "color": "255;255;255"
               }
             }
           }
@@ -102129,6 +102887,26 @@
             "b": 255,
             "g": 255,
             "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Loading...",
+            "font": "21bcfe4bb1045b82ecde51b2c493fc80da9496fb2f12e2e874a799d97505b795_Goldman-Regular.ttf",
+            "textAlignment": "center",
+            "characterSize": 40,
+            "color": "255;255;255"
           }
         }
       ],
@@ -106763,7 +107541,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "Value"
             },
             {
@@ -106773,7 +107550,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "MaxValue"
             },
             {
@@ -106793,7 +107569,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "PreviousHighValueDuration"
             }
           ],
@@ -108378,7 +109153,6 @@
                 "FillBar",
                 "Buffer"
               ],
-              "hidden": false,
               "name": "BarLeftPadding"
             },
             {
@@ -108392,7 +109166,6 @@
                 "FillBar",
                 "Buffer"
               ],
-              "hidden": false,
               "name": "BarTopPadding"
             },
             {
@@ -108406,7 +109179,6 @@
                 "FillBar",
                 "Buffer"
               ],
-              "hidden": false,
               "name": "BarRightPadding"
             },
             {
@@ -108420,7 +109192,6 @@
                 "FillBar",
                 "Buffer"
               ],
-              "hidden": false,
               "name": "BarBottomPadding"
             },
             {
@@ -108430,7 +109201,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "MaxValue"
             },
             {
@@ -108440,7 +109210,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "InitialValue"
             },
             {
@@ -108460,7 +109229,6 @@
               "description": "",
               "group": "Animation",
               "extraInformation": [],
-              "hidden": false,
               "name": "PreviousHighValueDuration"
             },
             {
@@ -108470,7 +109238,6 @@
               "description": "",
               "group": "Animation",
               "extraInformation": [],
-              "hidden": false,
               "name": "EasingDuration"
             },
             {
@@ -108482,7 +109249,6 @@
               "extraInformation": [
                 "Label"
               ],
-              "hidden": false,
               "name": "ShowLabel"
             },
             {
@@ -108542,6 +109308,26 @@
                 "b": 0,
                 "g": 0,
                 "r": 0
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "2 / 3",
+                "font": "",
+                "textAlignment": "center",
+                "characterSize": 20,
+                "color": "0;0;0"
               }
             },
             {
@@ -112298,7 +113084,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "ValueMin"
             },
             {
@@ -112308,7 +113093,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "ValueMax"
             },
             {
@@ -112318,7 +113102,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "TickSpacing"
             },
             {
@@ -112331,7 +113114,6 @@
                 "circle",
                 "rectangle"
               ],
-              "hidden": false,
               "name": "ThumbShape"
             },
             {
@@ -112341,7 +113123,6 @@
               "description": "",
               "group": "Thumb",
               "extraInformation": [],
-              "hidden": false,
               "name": "ThumbWidth"
             },
             {
@@ -112351,7 +113132,6 @@
               "description": "",
               "group": "Thumb",
               "extraInformation": [],
-              "hidden": false,
               "name": "ThumbHeight"
             },
             {
@@ -112361,7 +113141,6 @@
               "description": "",
               "group": "Thumb",
               "extraInformation": [],
-              "hidden": false,
               "name": "ThumbColor"
             },
             {
@@ -112371,7 +113150,6 @@
               "description": "",
               "group": "Thumb",
               "extraInformation": [],
-              "hidden": false,
               "name": "ThumbOpacity"
             },
             {
@@ -112381,7 +113159,6 @@
               "description": "",
               "group": "Track",
               "extraInformation": [],
-              "hidden": false,
               "name": "TrackLength"
             },
             {
@@ -112391,7 +113168,6 @@
               "description": "",
               "group": "Track",
               "extraInformation": [],
-              "hidden": false,
               "name": "TrackThickness"
             },
             {
@@ -112401,7 +113177,6 @@
               "description": "",
               "group": "Track",
               "extraInformation": [],
-              "hidden": false,
               "name": "InactiveTrackColor"
             },
             {
@@ -112411,7 +113186,6 @@
               "description": "",
               "group": "Track",
               "extraInformation": [],
-              "hidden": false,
               "name": "InactiveTrackOpacity"
             },
             {
@@ -112421,7 +113195,6 @@
               "description": "",
               "group": "Track",
               "extraInformation": [],
-              "hidden": false,
               "name": "ActiveTrackColor"
             },
             {
@@ -112431,7 +113204,6 @@
               "description": "",
               "group": "Track",
               "extraInformation": [],
-              "hidden": false,
               "name": "ActiveTrackOpacity"
             },
             {
@@ -112441,7 +113213,6 @@
               "description": "",
               "group": "Thumb",
               "extraInformation": [],
-              "hidden": false,
               "name": "HaloRadius"
             },
             {
@@ -112451,7 +113222,6 @@
               "description": "",
               "group": "Thumb",
               "extraInformation": [],
-              "hidden": false,
               "name": "HaloOpacityHover"
             },
             {
@@ -112461,7 +113231,6 @@
               "description": "",
               "group": "Thumb",
               "extraInformation": [],
-              "hidden": false,
               "name": "HaloOpacityClick"
             },
             {
@@ -112471,7 +113240,6 @@
               "description": "",
               "group": "Track",
               "extraInformation": [],
-              "hidden": false,
               "name": "RoundedTrack"
             },
             {
@@ -112481,7 +113249,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "Enabled"
             },
             {
@@ -113079,7 +113846,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "Value"
             },
             {
@@ -113089,7 +113855,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "MinValue"
             },
             {
@@ -113099,7 +113864,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "MaxValue"
             },
             {
@@ -113109,7 +113873,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "StepSize"
             }
           ],
@@ -116126,7 +116889,6 @@
                 "Label",
                 "FillBar"
               ],
-              "hidden": false,
               "name": "BarLeftPadding"
             },
             {
@@ -116139,7 +116901,6 @@
                 "Label",
                 "FillBar"
               ],
-              "hidden": false,
               "name": "BarTopPadding"
             },
             {
@@ -116152,7 +116913,6 @@
                 "Label",
                 "FillBar"
               ],
-              "hidden": false,
               "name": "BarRightPadding"
             },
             {
@@ -116165,7 +116925,6 @@
                 "Label",
                 "FillBar"
               ],
-              "hidden": false,
               "name": "BarBottomPadding"
             },
             {
@@ -116175,7 +116934,6 @@
               "description": "",
               "group": "Label",
               "extraInformation": [],
-              "hidden": false,
               "name": "ShowLabelAtChanges"
             },
             {
@@ -116185,7 +116943,6 @@
               "description": "",
               "group": "Label",
               "extraInformation": [],
-              "hidden": false,
               "name": "LabelMargin"
             },
             {
@@ -116195,7 +116952,6 @@
               "description": "",
               "group": "Value",
               "extraInformation": [],
-              "hidden": false,
               "name": "MinValue"
             },
             {
@@ -116205,7 +116961,6 @@
               "description": "",
               "group": "Value",
               "extraInformation": [],
-              "hidden": false,
               "name": "MaxValue"
             },
             {
@@ -116215,7 +116970,6 @@
               "description": "",
               "group": "Value",
               "extraInformation": [],
-              "hidden": false,
               "name": "StepSize"
             },
             {
@@ -116225,7 +116979,6 @@
               "description": "",
               "group": "Value",
               "extraInformation": [],
-              "hidden": false,
               "name": "InitialValue"
             },
             {
@@ -116295,6 +117048,26 @@
                 "b": 0,
                 "g": 0,
                 "r": 0
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "It displays the value when it changes.",
+                "font": "",
+                "textAlignment": "",
+                "characterSize": 20,
+                "color": "0;0;0"
               }
             },
             {
@@ -116868,7 +117641,6 @@
               "extraInformation": [
                 "SpriteToggleSwitch::ButtonFSM"
               ],
-              "hidden": false,
               "name": "ButtonFSM"
             },
             {
@@ -116878,7 +117650,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "IsChecked"
             },
             {
@@ -119043,7 +119814,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "IsChecked"
             },
             {
@@ -119204,7 +119974,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "SpeedX"
             },
             {
@@ -119215,7 +119984,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "SpeedY"
             }
           ],
@@ -123751,7 +124519,6 @@
               "description": "",
               "group": "Catch-up speed",
               "extraInformation": [],
-              "hidden": false,
               "name": "LeftwardSpeed"
             },
             {
@@ -123761,7 +124528,6 @@
               "description": "",
               "group": "Catch-up speed",
               "extraInformation": [],
-              "hidden": false,
               "name": "RightwardSpeed"
             },
             {
@@ -123771,7 +124537,6 @@
               "description": "",
               "group": "Catch-up speed",
               "extraInformation": [],
-              "hidden": false,
               "name": "UpwardSpeed"
             },
             {
@@ -123781,7 +124546,6 @@
               "description": "",
               "group": "Catch-up speed",
               "extraInformation": [],
-              "hidden": false,
               "name": "DownwardSpeed"
             },
             {
@@ -123791,7 +124555,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "FollowOnX"
             },
             {
@@ -123801,7 +124564,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "FollowOnY"
             },
             {
@@ -123812,7 +124574,6 @@
               "description": "",
               "group": "Position",
               "extraInformation": [],
-              "hidden": false,
               "name": "FollowFreeAreaLeft"
             },
             {
@@ -123823,7 +124584,6 @@
               "description": "",
               "group": "Position",
               "extraInformation": [],
-              "hidden": false,
               "name": "FollowFreeAreaRight"
             },
             {
@@ -123834,7 +124594,6 @@
               "description": "",
               "group": "Position",
               "extraInformation": [],
-              "hidden": false,
               "name": "FollowFreeAreaTop"
             },
             {
@@ -123845,7 +124604,6 @@
               "description": "",
               "group": "Position",
               "extraInformation": [],
-              "hidden": false,
               "name": "FollowFreeAreaBottom"
             },
             {
@@ -123856,7 +124614,6 @@
               "description": "",
               "group": "Position",
               "extraInformation": [],
-              "hidden": false,
               "name": "CameraOffsetX"
             },
             {
@@ -123867,7 +124624,6 @@
               "description": "",
               "group": "Position",
               "extraInformation": [],
-              "hidden": false,
               "name": "CameraOffsetY"
             },
             {
@@ -123878,7 +124634,6 @@
               "description": "",
               "group": "Timing",
               "extraInformation": [],
-              "hidden": false,
               "name": "CameraDelay"
             },
             {
@@ -123889,7 +124644,6 @@
               "description": "",
               "group": "Timing",
               "extraInformation": [],
-              "hidden": false,
               "name": "ForecastTime"
             },
             {
@@ -123900,7 +124654,6 @@
               "description": "",
               "group": "Timing",
               "extraInformation": [],
-              "hidden": false,
               "name": "ForecastHistoryDuration"
             },
             {
@@ -124171,7 +124924,6 @@
               "description": "",
               "group": "Maximum speed",
               "extraInformation": [],
-              "hidden": false,
               "name": "LeftwardSpeedMax"
             },
             {
@@ -124182,7 +124934,6 @@
               "description": "",
               "group": "Maximum speed",
               "extraInformation": [],
-              "hidden": false,
               "name": "RightwardSpeedMax"
             },
             {
@@ -124193,7 +124944,6 @@
               "description": "",
               "group": "Maximum speed",
               "extraInformation": [],
-              "hidden": false,
               "name": "UpwardSpeedMax"
             },
             {
@@ -124204,7 +124954,6 @@
               "description": "",
               "group": "Maximum speed",
               "extraInformation": [],
-              "hidden": false,
               "name": "DownwardSpeedMax"
             },
             {
@@ -124471,7 +125220,6 @@
               "extraInformation": [
                 "PlatformBehavior::PlatformerObjectBehavior"
               ],
-              "hidden": false,
               "name": "PlatformerCharacter"
             },
             {
@@ -124483,7 +125231,6 @@
               "extraInformation": [
                 "SmoothCamera::SmoothCamera"
               ],
-              "hidden": false,
               "name": "SmoothCamera"
             },
             {
@@ -124504,7 +125251,6 @@
               "description": "",
               "group": "Position",
               "extraInformation": [],
-              "hidden": false,
               "name": "AirFollowFreeAreaTop"
             },
             {
@@ -124515,7 +125261,6 @@
               "description": "",
               "group": "Position",
               "extraInformation": [],
-              "hidden": false,
               "name": "AirFollowFreeAreaBottom"
             },
             {
@@ -124526,7 +125271,6 @@
               "description": "",
               "group": "Position",
               "extraInformation": [],
-              "hidden": false,
               "name": "FloorFollowFreeAreaTop"
             },
             {
@@ -124537,7 +125281,6 @@
               "description": "",
               "group": "Position",
               "extraInformation": [],
-              "hidden": false,
               "name": "FloorFollowFreeAreaBottom"
             },
             {
@@ -124547,7 +125290,6 @@
               "description": "",
               "group": "Catch-up speed",
               "extraInformation": [],
-              "hidden": false,
               "name": "AirUpwardSpeed"
             },
             {
@@ -124557,7 +125299,6 @@
               "description": "",
               "group": "Catch-up speed",
               "extraInformation": [],
-              "hidden": false,
               "name": "AirDownwardSpeed"
             },
             {
@@ -124567,7 +125308,6 @@
               "description": "",
               "group": "Catch-up speed",
               "extraInformation": [],
-              "hidden": false,
               "name": "FloorUpwardSpeed"
             },
             {
@@ -124577,7 +125317,6 @@
               "description": "",
               "group": "Catch-up speed",
               "extraInformation": [],
-              "hidden": false,
               "name": "FloorDownwardSpeed"
             },
             {
@@ -124588,7 +125327,6 @@
               "description": "",
               "group": "Maximum speed",
               "extraInformation": [],
-              "hidden": false,
               "name": "AirUpwardSpeedMax"
             },
             {
@@ -124599,7 +125337,6 @@
               "description": "",
               "group": "Maximum speed",
               "extraInformation": [],
-              "hidden": false,
               "name": "AirDownwardSpeedMax"
             },
             {
@@ -124610,7 +125347,6 @@
               "description": "",
               "group": "Maximum speed",
               "extraInformation": [],
-              "hidden": false,
               "name": "FloorUpwardSpeedMax"
             },
             {
@@ -124621,7 +125357,6 @@
               "description": "",
               "group": "Maximum speed",
               "extraInformation": [],
-              "hidden": false,
               "name": "FloorDownwardSpeedMax"
             }
           ],
@@ -125136,7 +125871,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "TimerName"
             },
             {
@@ -125146,7 +125880,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "TimerLength"
             },
             {
@@ -125156,7 +125889,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "Limit"
             },
             {
@@ -127683,7 +128415,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "PressedLabelOffsetY"
             },
             {
@@ -127695,7 +128426,6 @@
               "extraInformation": [
                 "Label"
               ],
-              "hidden": false,
               "name": "LeftPadding"
             },
             {
@@ -127707,7 +128437,6 @@
               "extraInformation": [
                 "Label"
               ],
-              "hidden": false,
               "name": "RightPadding"
             },
             {
@@ -127719,7 +128448,6 @@
               "extraInformation": [
                 "Label"
               ],
-              "hidden": false,
               "name": "TopPadding"
             },
             {
@@ -127731,7 +128459,6 @@
               "extraInformation": [
                 "Label"
               ],
-              "hidden": false,
               "name": "BottomPadding"
             },
             {
@@ -127741,7 +128468,6 @@
               "description": "",
               "group": "",
               "extraInformation": [],
-              "hidden": false,
               "name": "HoveredFadeOutDuration"
             }
           ],
@@ -127765,6 +128491,26 @@
                 "b": 0,
                 "g": 0,
                 "r": 0
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Text",
+                "font": "",
+                "textAlignment": "",
+                "characterSize": 20,
+                "color": "0;0;0"
               }
             },
             {

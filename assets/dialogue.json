@@ -152,10 +152,10 @@
 	{
 		"title": "toTheHunter",
 		"tags": "",
-		"body": "Her name is Amy and she lives in the forest, but the way to her is a bit complicated. \nFirstly you need to go back across the bridge and go down ⬇️, then right ➡️ and you will go straight to the forest.\nLuckily from there, there are [color=#0000ff]blue[/color] flowers which are leading to her tent.\n[[ -Thank you, have a  nice day |thanking]]\n[[ -Okay, bye|thanking]]",
+		"body": "Her name is Amy and she lives in the forest, but the way to her is a bit complicated. \nFirstly you need to go back across the bridge and go down ⬇️, then right ➡️ and you will go straight to the forest.\nLuckily from there, there are flowers which are leading to her tent.\n[[ -Thank you, have a  nice day |thanking]]\n[[ -Okay, bye|thanking]]",
 		"position": {
-			"x": -1734,
-			"y": -1361
+			"x": -1736,
+			"y": -1363
 		},
 		"colorID": 8
 	},
@@ -862,9 +862,9 @@
 	{
 		"title": "farmerMilk",
 		"tags": "",
-		"body": "Hi there, what can I do for you today?\n[[ -I came do get some milk for the barmaid. |milkForBarmaid]]\n[[ -I need some milk. |milkForBarmaid]]",
+		"body": "Hi there, what can I do for you today?\n[[ -I came to get some milk for the barmaid. |milkForBarmaid]]\n[[ -I need some milk. |milkForBarmaid]]",
 		"position": {
-			"x": 2021,
+			"x": 2020,
 			"y": -2164
 		},
 		"colorID": 1
