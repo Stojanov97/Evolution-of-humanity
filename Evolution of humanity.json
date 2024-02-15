@@ -11268,6 +11268,24 @@
         "name": "image.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "D-ESLSplash.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "D-ESLSplash.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "D-ESLSplash2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "D-ESLSplash2.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -11365,7 +11383,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.47893418845352564,
+        "zoomFactor": 0.3673257545058835,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -11604,6 +11622,22 @@
           "x": 1449,
           "y": 980,
           "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 933,
+          "layer": "fade",
+          "name": "splash",
+          "persistentUuid": "1ece99f3-1f85-4e66-a687-c85844aa67fc",
+          "width": 1220,
+          "x": 350,
+          "y": 150,
+          "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12570,6 +12604,66 @@
               "width": 348
             }
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "splash",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "D-ESLSplash2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 816,
+                            "y": 0
+                          },
+                          {
+                            "x": 816,
+                            "y": 624
+                          },
+                          {
+                            "x": 0,
+                            "y": 624
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -12625,6 +12719,9 @@
           },
           {
             "objectName": "escPress"
+          },
+          {
+            "objectName": "splash"
           }
         ]
       },
@@ -12686,7 +12783,7 @@
                 "",
                 "\"fade-in\"",
                 ">=",
-                "0.05"
+                "2"
               ]
             }
           ],
@@ -12700,6 +12797,17 @@
                 "Opacity",
                 "-",
                 "10"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "splash",
+                "Opacity",
+                "-",
+                "40"
               ]
             }
           ]
@@ -12715,7 +12823,7 @@
                 "",
                 "\"fade-in\"",
                 ">=",
-                "1.5"
+                "3.5"
               ]
             }
           ],
